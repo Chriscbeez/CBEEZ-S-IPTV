@@ -1,215 +1,2828 @@
 #EXTM3U
-#EXTINF:-1,US: MTV HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6311
-#EXTINF:-1,US: VH1 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6312
-#EXTINF:-1,US: BET
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6313
-#EXTINF:-1,US: MTV LIVE
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6314
-#EXTINF:-1,US: BET HER
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6315
-#EXTINF:-1,US: TSN 1 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6316
-#EXTINF:-1,US: TSN 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6317
-#EXTINF:-1,US: TSN 3 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6318
-#EXTINF:-1,US: TSN 4 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6319
-#EXTINF:-1,US: TSN 5 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6320
-#EXTINF:-1,US: TBS HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6321
-#EXTINF:-1,US: Starz West
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6322
-#EXTINF:-1,US: GRIT TV MOVIES
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6323
-#EXTINF:-1,US: Starz Edge HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6324
-#EXTINF:-1,US: Starz East
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6325
-#EXTINF:-1,US: Starz Comedy
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6326
-#EXTINF:-1,US: Showtime 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6328
-#EXTINF:-1,US: Showtime HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6329
-#EXTINF:-1,US: NFL Network HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6330
-#EXTINF:-1,US: NBCSN HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6331
-#EXTINF:-1,US: MLB HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6333
-#EXTINF:-1,US: DISNEY JR HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6334
-#EXTINF:-1,US: HBO 2 COMEDY
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6335
-#EXTINF:-1,US: HALLMARK HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6336
-#EXTINF:-1,US: FX HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6337
-#EXTINF:-1,US: Fox News
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6338
-#EXTINF:-1,US: Starz Encore East
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6339
-#EXTINF:-1,US: Starz Encore HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6340
-#EXTINF:-1,US: Cinemax East
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6341
-#EXTINF:-1,US: Cinemax ActionMax
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6342
-#EXTINF:-1,US: Bravo HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6343
-#EXTINF:-1,US: Big Ten Network HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6344
+#EXTINF:-1,US: 5 StarMax FHD
+http://pascaltv.site:8080/F12611/b199b47b/29696
+#EXTINF:-1,US: 7 WWSB FL Sarasota HD
+http://pascaltv.site:8080/F12611/b199b47b/193556
+#EXTINF:-1,US: 30A TV
+http://pascaltv.site:8080/F12611/b199b47b/197735
+#EXTINF:-1,US: 3ABN Kids Network
+http://pascaltv.site:8080/F12611/b199b47b/166132
+#EXTINF:-1,US: 3ABN Latino HD
+http://pascaltv.site:8080/F12611/b199b47b/165455
+#EXTINF:-1,US: 3ABN Proclaim
+http://pascaltv.site:8080/F12611/b199b47b/166098
+#EXTINF:-1,US: A NBC Sports Philadelphia
+http://pascaltv.site:8080/F12611/b199b47b/56984
+#EXTINF:-1,US: A NETWORK EAST
+http://pascaltv.site:8080/F12611/b199b47b/57044
+#EXTINF:-1,US: A NETWORK WEST
+http://pascaltv.site:8080/F12611/b199b47b/57045
+#EXTINF:-1,US: A&E FHD
+http://pascaltv.site:8080/F12611/b199b47b/2746
+#EXTINF:-1,US: ABC [KGO-TV]
+http://pascaltv.site:8080/F12611/b199b47b/270031
+#EXTINF:-1,US: ABC [WFAA]
+http://pascaltv.site:8080/F12611/b199b47b/227097
+#EXTINF:-1,US: ABC [WFTV]
+http://pascaltv.site:8080/F12611/b199b47b/227098
+#EXTINF:-1,US: ABC [WKRN]
+http://pascaltv.site:8080/F12611/b199b47b/227099
+#EXTINF:-1,US: ABC Action News
+http://pascaltv.site:8080/F12611/b199b47b/35530
+#EXTINF:-1,US: ABC FAMILY/SPARK
+http://pascaltv.site:8080/F12611/b199b47b/35520
+#EXTINF:-1,US: ABC houston HD
+http://pascaltv.site:8080/F12611/b199b47b/8455
+#EXTINF:-1,US: ABC Las Vegas Nevada
+http://pascaltv.site:8080/F12611/b199b47b/166213
 #EXTINF:-1,US: ABC News HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6346
-#EXTINF:-1,US: TLC
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6347
-#EXTINF:-1,US: HBO ZONE
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6349
-#EXTINF:-1,US: HBO HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6350
-#EXTINF:-1,US: NBA TV
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6351
-#EXTINF:-1,US: CNN FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6352
-#EXTINF:-1,US: CBSN News
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6353
-#EXTINF:-1,US: ABC News HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6354
-#EXTINF:-1,US: ESPN 1
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6355
-#EXTINF:-1,US: DISCOVERY CHANNEL HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6356
-#EXTINF:-1,US: TNT HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6358
-#EXTINF:-1,US: CBS News
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6359
-#EXTINF:-1,US: TBS
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6360
-#EXTINF:-1,US: NAT GEO HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6361
-#EXTINF:-1,US: NFL Now
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6362
-#EXTINF:-1,US: ANIMAL PLANET
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6363
-#EXTINF:-1,US: DISCOVERY SCIENCE HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6364
-#EXTINF:-1,US: TRAVEL CHANNEL
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6365
-#EXTINF:-1,US: ESPN 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6366
-#EXTINF:-1,US: CW 11 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6367
-#EXTINF:-1,US: USA Network
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6368
-#EXTINF:-1,US: CBS HD-US
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6369
-#EXTINF:-1,US: LIFETIME HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6370
-#EXTINF:-1,US: ESPN 3
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6371
-#EXTINF:-1,US: The Weather Channel
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6373
+http://pascaltv.site:8080/F12611/b199b47b/2734
+#EXTINF:-1,US: ABC Orlando
+http://pascaltv.site:8080/F12611/b199b47b/8441
+#EXTINF:-1,US: ABC Sacramento HD
+http://pascaltv.site:8080/F12611/b199b47b/82330
+#EXTINF:-1,US: ABN
+http://pascaltv.site:8080/F12611/b199b47b/166083
+#EXTINF:-1,US: ABN 2
+http://pascaltv.site:8080/F12611/b199b47b/166116
+#EXTINF:-1,US: ABN 3
+http://pascaltv.site:8080/F12611/b199b47b/166087
+#EXTINF:-1,US: ABN Worship
+http://pascaltv.site:8080/F12611/b199b47b/166103
+#EXTINF:-1,US: ACC Network HD
+http://pascaltv.site:8080/F12611/b199b47b/29664
+#EXTINF:-1,US: ACTION Max FHD
+http://pascaltv.site:8080/F12611/b199b47b/2274
+#EXTINF:-1,US: Adult Swim
+http://pascaltv.site:8080/F12611/b199b47b/35565
+#EXTINF:-1,US: Adventure Sports Network
+http://pascaltv.site:8080/F12611/b199b47b/201584
+#EXTINF:-1,US: AFN Prime Atlantic
+http://pascaltv.site:8080/F12611/b199b47b/201208
+#EXTINF:-1,US: AFN Prime Pacific HD
+http://pascaltv.site:8080/F12611/b199b47b/2275
+#EXTINF:-1,US: AFN Sport 2
+http://pascaltv.site:8080/F12611/b199b47b/33604
+#EXTINF:-1,US: AHC
+http://pascaltv.site:8080/F12611/b199b47b/35585
+#EXTINF:-1,US: Al Horreya TV
+http://pascaltv.site:8080/F12611/b199b47b/166006
+#EXTINF:-1,US: AL JAZEERA HD
+http://pascaltv.site:8080/F12611/b199b47b/193553
+#EXTINF:-1,US: Al-Mahdi TV
+http://pascaltv.site:8080/F12611/b199b47b/166148
+#EXTINF:-1,US: Alburquerque NBC KOB
+http://pascaltv.site:8080/F12611/b199b47b/198335
+#EXTINF:-1,US: Alexandria NBC KALB
+http://pascaltv.site:8080/F12611/b199b47b/198384
+#EXTINF:-1,US: Almagd TV
+http://pascaltv.site:8080/F12611/b199b47b/166095
+#EXTINF:-1,US: AMC HD
+http://pascaltv.site:8080/F12611/b199b47b/751
+#EXTINF:-1,US: American Hero Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/6337
+#EXTINF:-1,US: American Horror TV
+http://pascaltv.site:8080/F12611/b199b47b/194723
+#EXTINF:-1,US: ANIMAL PLANET EAST
+http://pascaltv.site:8080/F12611/b199b47b/6501
+#EXTINF:-1,US: ANIMAL PLANET FHD
+http://pascaltv.site:8080/F12611/b199b47b/6329
+#EXTINF:-1,US: ANIMAL PLANET WEST
+http://pascaltv.site:8080/F12611/b199b47b/193489
+#EXTINF:-1,US: Antenna TV
+http://pascaltv.site:8080/F12611/b199b47b/15119
+#EXTINF:-1,US: Apologetics Channel
+http://pascaltv.site:8080/F12611/b199b47b/166150
+#EXTINF:-1,US: Arabic Debate
+http://pascaltv.site:8080/F12611/b199b47b/166101
+#EXTINF:-1,US: ASPIRE TV
+http://pascaltv.site:8080/F12611/b199b47b/150605
+#EXTINF:-1,US: AssyriaSat
+http://pascaltv.site:8080/F12611/b199b47b/166127
+#EXTINF:-1,US: Augusta FOX WFXG
+http://pascaltv.site:8080/F12611/b199b47b/194193
+#EXTINF:-1,US: Augusta NBC WAGT
+http://pascaltv.site:8080/F12611/b199b47b/198355
+#EXTINF:-1,US: AWE Channel
+http://pascaltv.site:8080/F12611/b199b47b/15118
+#EXTINF:-1,US: AXS TV HD
+http://pascaltv.site:8080/F12611/b199b47b/15117
+#EXTINF:-1,US: BABY FIRST
+http://pascaltv.site:8080/F12611/b199b47b/8591
+#EXTINF:-1,US: Baby TV
+http://pascaltv.site:8080/F12611/b199b47b/6390
+#EXTINF:-1,US: Baton Rouge FOX WGMB
+http://pascaltv.site:8080/F12611/b199b47b/198149
+#EXTINF:-1,US: Baton Rouge NBC WVLA
+http://pascaltv.site:8080/F12611/b199b47b/198385
+#EXTINF:-1,US: BBC America HD
+http://pascaltv.site:8080/F12611/b199b47b/2277
+#EXTINF:-1,US: BBC WORLD NEWS HD
+http://pascaltv.site:8080/F12611/b199b47b/6427
+#EXTINF:-1,US: beIN Sports 4 HD
+http://pascaltv.site:8080/F12611/b199b47b/151024
+#EXTINF:-1,US: beIN Sports 5 HD
+http://pascaltv.site:8080/F12611/b199b47b/151026
+#EXTINF:-1,US: beIN Sports 6 HD
+http://pascaltv.site:8080/F12611/b199b47b/151030
+#EXTINF:-1,US: beIN Sports 7 HD
+http://pascaltv.site:8080/F12611/b199b47b/151028
+#EXTINF:-1,US: beIN Sports 8 HD
+http://pascaltv.site:8080/F12611/b199b47b/151032
+#EXTINF:-1,US: beIN Sports FHD
+http://pascaltv.site:8080/F12611/b199b47b/2272
+#EXTINF:-1,US: beIN Sports USA HD
+http://pascaltv.site:8080/F12611/b199b47b/6300
+#EXTINF:-1,US: beIN Sports Ñ
+http://pascaltv.site:8080/F12611/b199b47b/147547
+#EXTINF:-1,US: BET HD
+http://pascaltv.site:8080/F12611/b199b47b/2278
+#EXTINF:-1,US: BET HER FHD
+http://pascaltv.site:8080/F12611/b199b47b/15898
+#EXTINF:-1,US: BET JAMS
+http://pascaltv.site:8080/F12611/b199b47b/30936
+#EXTINF:-1,US: BET SOUL HD
+http://pascaltv.site:8080/F12611/b199b47b/13006
+#EXTINF:-1,US: BET West HD
+http://pascaltv.site:8080/F12611/b199b47b/56988
+#EXTINF:-1,US: Bible Explorations TV
+http://pascaltv.site:8080/F12611/b199b47b/166162
+#EXTINF:-1,US: BIG TEN NETWORK HD
+http://pascaltv.site:8080/F12611/b199b47b/192230
+#EXTINF:-1,US: Billings NBC KULR
+http://pascaltv.site:8080/F12611/b199b47b/192925
+#EXTINF:-1,US: Binghamton NBC WBGH
+http://pascaltv.site:8080/F12611/b199b47b/198296
+#EXTINF:-1,US: BLAZE TV
+http://pascaltv.site:8080/F12611/b199b47b/58003
+#EXTINF:-1,US: Bloomberg HD
+http://pascaltv.site:8080/F12611/b199b47b/2280
+#EXTINF:-1,US: Bloomberg News
+http://pascaltv.site:8080/F12611/b199b47b/57993
+#EXTINF:-1,US: Bloomington FOX WYZZ
+http://pascaltv.site:8080/F12611/b199b47b/198144
+#EXTINF:-1,US: Boomerang HD
+http://pascaltv.site:8080/F12611/b199b47b/2281
+#EXTINF:-1,US: Boston NBC WBTS
+http://pascaltv.site:8080/F12611/b199b47b/192903
+#EXTINF:-1,US: Bounce TV
+http://pascaltv.site:8080/F12611/b199b47b/15472
+#EXTINF:-1,US: Bowling Green NBC WNKY
+http://pascaltv.site:8080/F12611/b199b47b/198380
+#EXTINF:-1,US: BOX OFFICE 1 HD
+http://pascaltv.site:8080/F12611/b199b47b/187622
+#EXTINF:-1,US: BOX OFFICE 2 HD
+http://pascaltv.site:8080/F12611/b199b47b/187623
+#EXTINF:-1,US: BOX OFFICE 3 HD
+http://pascaltv.site:8080/F12611/b199b47b/187624
+#EXTINF:-1,US: BOX OFFICE 4 HD
+http://pascaltv.site:8080/F12611/b199b47b/187625
+#EXTINF:-1,US: BOX OFFICE 5 HD
+http://pascaltv.site:8080/F12611/b199b47b/187618
+#EXTINF:-1,US: BOX OFFICE 6 HD
+http://pascaltv.site:8080/F12611/b199b47b/187617
+#EXTINF:-1,US: BOX OFFICE 7 HD
+http://pascaltv.site:8080/F12611/b199b47b/187619
+#EXTINF:-1,US: BOX OFFICE 8 HD
+http://pascaltv.site:8080/F12611/b199b47b/187620
+#EXTINF:-1,US: Bravo East HD
+http://pascaltv.site:8080/F12611/b199b47b/6375
+#EXTINF:-1,US: Bravo FHD
+http://pascaltv.site:8080/F12611/b199b47b/2282
+#EXTINF:-1,US: Bravo West
+http://pascaltv.site:8080/F12611/b199b47b/6351
+#EXTINF:-1,US: Breaking The Chains
+http://pascaltv.site:8080/F12611/b199b47b/166106
+#EXTINF:-1,US: BRITS & HITS
+http://pascaltv.site:8080/F12611/b199b47b/66089
+#EXTINF:-1,US: BTN HD
+http://pascaltv.site:8080/F12611/b199b47b/2279
+#EXTINF:-1,US: Buffalo NBC WGRZ
+http://pascaltv.site:8080/F12611/b199b47b/198297
+#EXTINF:-1,US: Buffalo TV
+http://pascaltv.site:8080/F12611/b199b47b/199581
+#EXTINF:-1,US: BUZZR TV HD
+http://pascaltv.site:8080/F12611/b199b47b/15114
+#EXTINF:-1,US: BYU HD
+http://pascaltv.site:8080/F12611/b199b47b/267218
+#EXTINF:-1,US: BYU Sports
+http://pascaltv.site:8080/F12611/b199b47b/6301
+#EXTINF:-1,US: C-SPAN 1 HD
+http://pascaltv.site:8080/F12611/b199b47b/14804
 #EXTINF:-1,US: C-SPAN 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6375
+http://pascaltv.site:8080/F12611/b199b47b/2284
 #EXTINF:-1,US: C-SPAN 3 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6376
-#EXTINF:-1,US: FOOD NETWORK
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6377
-#EXTINF:-1,US: Cinemax 5 Star Max
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6378
+http://pascaltv.site:8080/F12611/b199b47b/2285
+#EXTINF:-1,US: Caldwell FOX KNIN
+http://pascaltv.site:8080/F12611/b199b47b/198142
+#EXTINF:-1,US: California Music Channel FHD
+http://pascaltv.site:8080/F12611/b199b47b/163079
+#EXTINF:-1,US: CAPITAL TV
+http://pascaltv.site:8080/F12611/b199b47b/35536
+#EXTINF:-1,US: CARTOON NETWORK (East) HD
+http://pascaltv.site:8080/F12611/b199b47b/6397
 #EXTINF:-1,US: Cartoon Network HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6379
-#EXTINF:-1,US: Nickelodeon
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6380
-#EXTINF:-1,US: SYFY HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6381
-#EXTINF:-1,US: Cinemax Moremax
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6382
-#EXTINF:-1,US: DISCOVERY VELOCITY
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6383
-#EXTINF:-1,US: E! Network HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6384
-#EXTINF:-1,US: BBC WORLD NEWS
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6385
-#EXTINF:-1,US: ESPN NEWS
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6386
-#EXTINF:-1,US: COMEDY CENTRAL
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6387
-#EXTINF:-1,US: TRU TV
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6388
-#EXTINF:-1,US: TENNIS HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6389
-#EXTINF:-1,US: Showtime Showcase
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6390
-#EXTINF:-1,US: Showtime Extreme HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6391
-#EXTINF:-1,US: OWN HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6392
-#EXTINF:-1,US: NICKTOONS
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6393
-#EXTINF:-1,US: NICK HD (kids)
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6394
-#EXTINF:-1,US: NFL Network HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6395
-#EXTINF:-1,US: HGTV HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6396
-#EXTINF:-1,US: HBO Family HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6397
-#EXTINF:-1,US: GSN TV
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6398
-#EXTINF:-1,US: NHL NETWORK HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6399
-#EXTINF:-1,US: CNBC HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6400
-#EXTINF:-1,US: MSNBC HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6401
-#EXTINF:-1,US: FOX SOCCER PLUS HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6402
-#EXTINF:-1,US: FOX DEPORTES HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6403
-#EXTINF:-1,US: NBA TV LEAGUE
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6404
+http://pascaltv.site:8080/F12611/b199b47b/2286
+#EXTINF:-1,US: Cartoon Network Pacific
+http://pascaltv.site:8080/F12611/b199b47b/25082
+#EXTINF:-1,US: CBN Español
+http://pascaltv.site:8080/F12611/b199b47b/165446
+#EXTINF:-1,US: CBN HD
+http://pascaltv.site:8080/F12611/b199b47b/83936
+#EXTINF:-1,US: CBN News
+http://pascaltv.site:8080/F12611/b199b47b/147400
+#EXTINF:-1,US: CBS 2 WBM (Chicago) HD
+http://pascaltv.site:8080/F12611/b199b47b/14811
+#EXTINF:-1,US: CBS 8 Knoxville TN HD
+http://pascaltv.site:8080/F12611/b199b47b/51423
+#EXTINF:-1,US: CBS 10 Columbus
+http://pascaltv.site:8080/F12611/b199b47b/194183
+#EXTINF:-1,US: CBS 11 Fort Myers HD
+http://pascaltv.site:8080/F12611/b199b47b/196202
+#EXTINF:-1,US: CBS 12 Cincinnati
+http://pascaltv.site:8080/F12611/b199b47b/63455
+#EXTINF:-1,US: CBS 47 Jacksonville
+http://pascaltv.site:8080/F12611/b199b47b/202033
+#EXTINF:-1,US: CBS Atlanta HD
+http://pascaltv.site:8080/F12611/b199b47b/13202
+#EXTINF:-1,US: CBS Bakersfield
+http://pascaltv.site:8080/F12611/b199b47b/147590
+#EXTINF:-1,US: CBS Baltimore
+http://pascaltv.site:8080/F12611/b199b47b/45555
+#EXTINF:-1,US: CBS Boston FHD
+http://pascaltv.site:8080/F12611/b199b47b/41011
+#EXTINF:-1,US: CBS Charlotte FHD
+http://pascaltv.site:8080/F12611/b199b47b/8408
+#EXTINF:-1,US: CBS Cleveland
+http://pascaltv.site:8080/F12611/b199b47b/8410
+#EXTINF:-1,US: CBS CLEVELAND OH WOIO
+http://pascaltv.site:8080/F12611/b199b47b/40995
+#EXTINF:-1,US: CBS COLUMBUS HD
+http://pascaltv.site:8080/F12611/b199b47b/8406
+#EXTINF:-1,US: CBS COLUMBUS OH WBNS
+http://pascaltv.site:8080/F12611/b199b47b/41010
+#EXTINF:-1,US: CBS Dallas
+http://pascaltv.site:8080/F12611/b199b47b/82321
+#EXTINF:-1,US: CBS DALLAS TX KTVT
+http://pascaltv.site:8080/F12611/b199b47b/35032
+#EXTINF:-1,US: CBS DENVER CO KCNC
+http://pascaltv.site:8080/F12611/b199b47b/35025
+#EXTINF:-1,US: CBS DETROIT HD
+http://pascaltv.site:8080/F12611/b199b47b/8416
+#EXTINF:-1,US: CBS DETROIT MI WWJ
+http://pascaltv.site:8080/F12611/b199b47b/40996
+#EXTINF:-1,US: CBS East
+http://pascaltv.site:8080/F12611/b199b47b/75306
+#EXTINF:-1,US: CBS FHD
+http://pascaltv.site:8080/F12611/b199b47b/2740
+#EXTINF:-1,US: CBS Goldsboro North Carolina HD
+http://pascaltv.site:8080/F12611/b199b47b/150688
+#EXTINF:-1,US: CBS GREENSBORO HD
+http://pascaltv.site:8080/F12611/b199b47b/8417
+#EXTINF:-1,US: CBS GREENSBORO NC WFMY
+http://pascaltv.site:8080/F12611/b199b47b/41000
+#EXTINF:-1,US: CBS HARTFORD CT WFSB
+http://pascaltv.site:8080/F12611/b199b47b/41005
+#EXTINF:-1,US: CBS Hartford HD
+http://pascaltv.site:8080/F12611/b199b47b/8415
+#EXTINF:-1,US: CBS Houston Texas HD
+http://pascaltv.site:8080/F12611/b199b47b/8414
+#EXTINF:-1,US: CBS Illinois Chicago HD
+http://pascaltv.site:8080/F12611/b199b47b/40999
+#EXTINF:-1,US: CBS Jacksonville
+http://pascaltv.site:8080/F12611/b199b47b/8413
+#EXTINF:-1,US: CBS KANSAS CITY MO KCTV
+http://pascaltv.site:8080/F12611/b199b47b/41002
+#EXTINF:-1,US: CBS KBOI Boise
+http://pascaltv.site:8080/F12611/b199b47b/150650
+#EXTINF:-1,US: CBS KCAL Los Angeles
+http://pascaltv.site:8080/F12611/b199b47b/150654
+#EXTINF:-1,US: CBS KCCI Des Moines-Ames
+http://pascaltv.site:8080/F12611/b199b47b/150668
+#EXTINF:-1,US: CBS KDBC El Paso
+http://pascaltv.site:8080/F12611/b199b47b/150726
+#EXTINF:-1,US: CBS KEYE Austin
+http://pascaltv.site:8080/F12611/b199b47b/150706
+#EXTINF:-1,US: CBS KFVS Cape Girardeau
+http://pascaltv.site:8080/F12611/b199b47b/150705
+#EXTINF:-1,US: CBS KGAN Cedar Rapids
+http://pascaltv.site:8080/F12611/b199b47b/150647
+#EXTINF:-1,US: CBS KGBT Harlingen
+http://pascaltv.site:8080/F12611/b199b47b/150723
+#EXTINF:-1,US: CBS KGMB Honolulu
+http://pascaltv.site:8080/F12611/b199b47b/150652
+#EXTINF:-1,US: CBS KIMA Yakima
+http://pascaltv.site:8080/F12611/b199b47b/150716
+#EXTINF:-1,US: CBS KION Monterey
+http://pascaltv.site:8080/F12611/b199b47b/150641
+#EXTINF:-1,US: CBS KKTV Colorado Springs
+http://pascaltv.site:8080/F12611/b199b47b/150657
+#EXTINF:-1,US: CBS KLAS Las Vegas
+http://pascaltv.site:8080/F12611/b199b47b/150692
+#EXTINF:-1,US: CBS KMTV Omaha
+http://pascaltv.site:8080/F12611/b199b47b/150725
+#EXTINF:-1,US: CBS KOIN Portland
+http://pascaltv.site:8080/F12611/b199b47b/150677
+#EXTINF:-1,US: CBS KOLD
+http://pascaltv.site:8080/F12611/b199b47b/150638
+#EXTINF:-1,US: CBS KOLN Lincoln
+http://pascaltv.site:8080/F12611/b199b47b/150693
+#EXTINF:-1,US: CBS KOTV Tulsa
+http://pascaltv.site:8080/F12611/b199b47b/150696
+#EXTINF:-1,US: CBS KOVR Stockton
+http://pascaltv.site:8080/F12611/b199b47b/150642
+#EXTINF:-1,US: CBS KREM Spokane
+http://pascaltv.site:8080/F12611/b199b47b/150714
+#EXTINF:-1,US: CBS KRQE Albuquerque
+http://pascaltv.site:8080/F12611/b199b47b/150704
+#EXTINF:-1,US: CBS KSLA Shreveport
+http://pascaltv.site:8080/F12611/b199b47b/150662
+#EXTINF:-1,US: CBS KTHV
+http://pascaltv.site:8080/F12611/b199b47b/150636
+#EXTINF:-1,US: CBS KTVN Reno
+http://pascaltv.site:8080/F12611/b199b47b/150694
+#EXTINF:-1,US: CBS KTVT Fort Worth
+http://pascaltv.site:8080/F12611/b199b47b/150709
+#EXTINF:-1,US: CBS KTXA Fort Worth
+http://pascaltv.site:8080/F12611/b199b47b/150728
+#EXTINF:-1,US: CBS KUTV Salt Lake City
+http://pascaltv.site:8080/F12611/b199b47b/150712
+#EXTINF:-1,US: CBS KVAL Eugene
+http://pascaltv.site:8080/F12611/b199b47b/150684
+#EXTINF:-1,US: CBS KWTV Oklahoma City
+http://pascaltv.site:8080/F12611/b199b47b/150687
+#EXTINF:-1,US: CBS KXJB Laramie
+http://pascaltv.site:8080/F12611/b199b47b/150729
+#EXTINF:-1,US: CBS KYTX Nacogdoches
+http://pascaltv.site:8080/F12611/b199b47b/150710
+#EXTINF:-1,US: CBS KZTV Corpus Christi
+http://pascaltv.site:8080/F12611/b199b47b/150708
+#EXTINF:-1,US: CBS Lexington
+http://pascaltv.site:8080/F12611/b199b47b/200859
+#EXTINF:-1,US: CBS Los Angeles California HD
+http://pascaltv.site:8080/F12611/b199b47b/35026
+#EXTINF:-1,US: CBS Miami
+http://pascaltv.site:8080/F12611/b199b47b/82328
+#EXTINF:-1,US: CBS MIAMI FL WFOR
+http://pascaltv.site:8080/F12611/b199b47b/41017
+#EXTINF:-1,US: CBS MILWAUKEE WI WDJT
+http://pascaltv.site:8080/F12611/b199b47b/41003
+#EXTINF:-1,US: CBS MINNEAPOLIS HD
+http://pascaltv.site:8080/F12611/b199b47b/8418
+#EXTINF:-1,US: CBS MINNEAPOLIS MN WCCO
+http://pascaltv.site:8080/F12611/b199b47b/45556
+#EXTINF:-1,US: CBS New Orleans
+http://pascaltv.site:8080/F12611/b199b47b/8421
+#EXTINF:-1,US: CBS NEW ORLEANS LA WWL
+http://pascaltv.site:8080/F12611/b199b47b/41016
+#EXTINF:-1,US: CBS New York
+http://pascaltv.site:8080/F12611/b199b47b/82322
+#EXTINF:-1,US: CBS NEW YORK NY WCBS
+http://pascaltv.site:8080/F12611/b199b47b/35036
+#EXTINF:-1,US: CBS News HD
+http://pascaltv.site:8080/F12611/b199b47b/19326
+#EXTINF:-1,US: CBS Orlando
+http://pascaltv.site:8080/F12611/b199b47b/35387
+#EXTINF:-1,US: CBS ORLANDO FL WKMG
+http://pascaltv.site:8080/F12611/b199b47b/41018
+#EXTINF:-1,US: CBS PHILADELPHIA PA KYW
+http://pascaltv.site:8080/F12611/b199b47b/41006
+#EXTINF:-1,US: CBS PHOENIX AZ KPHO
+http://pascaltv.site:8080/F12611/b199b47b/41007
+#EXTINF:-1,US: CBS PITTSBURGH PA KDKA
+http://pascaltv.site:8080/F12611/b199b47b/41008
+#EXTINF:-1,US: CBS POP
+http://pascaltv.site:8080/F12611/b199b47b/25081
+#EXTINF:-1,US: CBS REALITY
+http://pascaltv.site:8080/F12611/b199b47b/169120
+#EXTINF:-1,US: CBS SAN ANTONIO TX KENS
+http://pascaltv.site:8080/F12611/b199b47b/41009
+#EXTINF:-1,US: CBS SAN DIEGO CA KFMB
+http://pascaltv.site:8080/F12611/b199b47b/41012
+#EXTINF:-1,US: CBS San Francisco
+http://pascaltv.site:8080/F12611/b199b47b/82332
+#EXTINF:-1,US: CBS SAN FRANCISCO CA KPIX
+http://pascaltv.site:8080/F12611/b199b47b/41019
+#EXTINF:-1,US: CBS SEATTLE WA KIRO
+http://pascaltv.site:8080/F12611/b199b47b/41013
+#EXTINF:-1,US: CBS Sports HD
+http://pascaltv.site:8080/F12611/b199b47b/6444
+#EXTINF:-1,US: CBS Sports Network HD
+http://pascaltv.site:8080/F12611/b199b47b/267357
+#EXTINF:-1,US: CBS ST LOUIS MO KMOV
+http://pascaltv.site:8080/F12611/b199b47b/41022
+#EXTINF:-1,US: CBS TAMPA FL WTSP
+http://pascaltv.site:8080/F12611/b199b47b/41023
+#EXTINF:-1,US: CBS Waco TX
+http://pascaltv.site:8080/F12611/b199b47b/63454
+#EXTINF:-1,US: CBS WAFB Baton Rouge
+http://pascaltv.site:8080/F12611/b199b47b/150661
+#EXTINF:-1,US: CBS WAKA
+http://pascaltv.site:8080/F12611/b199b47b/150630
+#EXTINF:-1,US: CBS Washington
+http://pascaltv.site:8080/F12611/b199b47b/8436
+#EXTINF:-1,US: CBS WASHINGTON DC WUSA
+http://pascaltv.site:8080/F12611/b199b47b/41020
+#EXTINF:-1,US: CBS WCAX Burlington
+http://pascaltv.site:8080/F12611/b199b47b/150718
+#EXTINF:-1,US: CBS WCBI Columbus
+http://pascaltv.site:8080/F12611/b199b47b/150685
+#EXTINF:-1,US: CBS WCBS New York
+http://pascaltv.site:8080/F12611/b199b47b/150691
+#EXTINF:-1,US: CBS WCSC Charleston
+http://pascaltv.site:8080/F12611/b199b47b/150680
+#EXTINF:-1,US: CBS WDBJ Roanoke
+http://pascaltv.site:8080/F12611/b199b47b/150711
+#EXTINF:-1,US: CBS WDEF Chattanooga
+http://pascaltv.site:8080/F12611/b199b47b/150702
+#EXTINF:-1,US: CBS WEVV Evansville
+http://pascaltv.site:8080/F12611/b199b47b/150675
+#EXTINF:-1,US: CBS WFRV Green Bay
+http://pascaltv.site:8080/F12611/b199b47b/150719
+#EXTINF:-1,US: CBS WGME Portland
+http://pascaltv.site:8080/F12611/b199b47b/150703
+#EXTINF:-1,US: CBS WHIO Dayton
+http://pascaltv.site:8080/F12611/b199b47b/150678
+#EXTINF:-1,US: CBS WHP Detroit
+http://pascaltv.site:8080/F12611/b199b47b/150697
+#EXTINF:-1,US: CBS WINK Fort Myers
+http://pascaltv.site:8080/F12611/b199b47b/150660
+#EXTINF:-1,US: CBS WISC Madison
+http://pascaltv.site:8080/F12611/b199b47b/150724
+#EXTINF:-1,US: CBS WIVB Buffalo
+http://pascaltv.site:8080/F12611/b199b47b/150674
+#EXTINF:-1,US: CBS WKBN Youngstown
+http://pascaltv.site:8080/F12611/b199b47b/150686
+#EXTINF:-1,US: CBS WKBT La Crosse
+http://pascaltv.site:8080/F12611/b199b47b/150720
+#EXTINF:-1,US: CBS WKRG
+http://pascaltv.site:8080/F12611/b199b47b/150634
+#EXTINF:-1,US: CBS WLKY Louisville
+http://pascaltv.site:8080/F12611/b199b47b/150670
+#EXTINF:-1,US: CBS WLNS Lansing
+http://pascaltv.site:8080/F12611/b199b47b/150699
+#EXTINF:-1,US: CBS WLTX Columbia
+http://pascaltv.site:8080/F12611/b199b47b/150669
+#EXTINF:-1,US: CBS WMAZ Macon
+http://pascaltv.site:8080/F12611/b199b47b/150664
+#EXTINF:-1,US: CBS WNCT Greenville
+http://pascaltv.site:8080/F12611/b199b47b/150707
+#EXTINF:-1,US: CBS WNEM Bay City
+http://pascaltv.site:8080/F12611/b199b47b/150722
+#EXTINF:-1,US: CBS WOIO Shaker Heights
+http://pascaltv.site:8080/F12611/b199b47b/150700
+#EXTINF:-1,US: CBS WPEC West Palm Beach
+http://pascaltv.site:8080/F12611/b199b47b/150643
+#EXTINF:-1,US: CBS WPRI Providence
+http://pascaltv.site:8080/F12611/b199b47b/150682
+#EXTINF:-1,US: CBS WRDW Augusta
+http://pascaltv.site:8080/F12611/b199b47b/150646
+#EXTINF:-1,US: CBS WRGB Schenectady
+http://pascaltv.site:8080/F12611/b199b47b/150695
+#EXTINF:-1,US: CBS WSBT South Bend
+http://pascaltv.site:8080/F12611/b199b47b/150653
+#EXTINF:-1,US: CBS WSHM Springfield
+http://pascaltv.site:8080/F12611/b199b47b/150673
+#EXTINF:-1,US: CBS WTAJ Altoona
+http://pascaltv.site:8080/F12611/b199b47b/150665
+#EXTINF:-1,US: CBS WTOC Savannah
+http://pascaltv.site:8080/F12611/b199b47b/150667
+#EXTINF:-1,US: CBS WTOL Toledo
+http://pascaltv.site:8080/F12611/b199b47b/150679
+#EXTINF:-1,US: CBS WTSP St Petersburg
+http://pascaltv.site:8080/F12611/b199b47b/150644
+#EXTINF:-1,US: CBS WTVH Syracuse
+http://pascaltv.site:8080/F12611/b199b47b/150683
+#EXTINF:-1,US: CBS WWAY Wilmington
+http://pascaltv.site:8080/F12611/b199b47b/150689
+#EXTINF:-1,US: CBS WWMT Kalamazoo
+http://pascaltv.site:8080/F12611/b199b47b/150717
+#EXTINF:-1,US: CBS WWTV Cadillac
+http://pascaltv.site:8080/F12611/b199b47b/150701
+#EXTINF:-1,US: CBS WYOU Wilkes-Barre
+http://pascaltv.site:8080/F12611/b199b47b/150666
+#EXTINF:-1,US: CBSN FHD
+http://pascaltv.site:8080/F12611/b199b47b/14269
+#EXTINF:-1,US: CBSN News
+http://pascaltv.site:8080/F12611/b199b47b/19324
+#EXTINF:-1,US: CGTN America
+http://pascaltv.site:8080/F12611/b199b47b/267217
+#EXTINF:-1,US: CGTN Documentary
+http://pascaltv.site:8080/F12611/b199b47b/277451
+#EXTINF:-1,US: Channel One HD
+http://pascaltv.site:8080/F12611/b199b47b/197740
+#EXTINF:-1,US: Charles FOX Net Lake
+http://pascaltv.site:8080/F12611/b199b47b/198150
+#EXTINF:-1,US: Cheddar
+http://pascaltv.site:8080/F12611/b199b47b/147546
+#EXTINF:-1,US: Cheddar Business
+http://pascaltv.site:8080/F12611/b199b47b/8607
+#EXTINF:-1,US: Cheddar News
+http://pascaltv.site:8080/F12611/b199b47b/8606
+#EXTINF:-1,US: Chicago FOX WFLD
+http://pascaltv.site:8080/F12611/b199b47b/198145
+#EXTINF:-1,US: Cinema 01 PPV
+http://pascaltv.site:8080/F12611/b199b47b/30976
+#EXTINF:-1,US: Cinema 02 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/30977
+#EXTINF:-1,US: Cinema 3 Aladdin
+http://pascaltv.site:8080/F12611/b199b47b/192850
+#EXTINF:-1,US: Cinema 03 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/30978
+#EXTINF:-1,US: Cinema 4 Alita Battle Angel HD
+http://pascaltv.site:8080/F12611/b199b47b/192851
+#EXTINF:-1,US: Cinema 04 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/30979
+#EXTINF:-1,US: Cinema 05 PPV
+http://pascaltv.site:8080/F12611/b199b47b/30973
+#EXTINF:-1,US: Cinema 6 Annabelle Comes Home
+http://pascaltv.site:8080/F12611/b199b47b/192853
+#EXTINF:-1,US: Cinema 06 PPV
+http://pascaltv.site:8080/F12611/b199b47b/30980
+#EXTINF:-1,US: Cinema 07 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/61443
+#EXTINF:-1,US: Cinema 08 PPV
+http://pascaltv.site:8080/F12611/b199b47b/61436
+#EXTINF:-1,US: Cinema 09 End Game
+http://pascaltv.site:8080/F12611/b199b47b/201578
+#EXTINF:-1,US: Cinema 09 PPV
+http://pascaltv.site:8080/F12611/b199b47b/30981
+#EXTINF:-1,US: Cinema 10 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/33458
+#EXTINF:-1,US: Cinema 11 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/61442
+#EXTINF:-1,US: Cinema 14 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/30986
+#EXTINF:-1,US: Cinema 15 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/30991
+#EXTINF:-1,US: Cinema 15 The Irishman
+http://pascaltv.site:8080/F12611/b199b47b/192842
+#EXTINF:-1,US: Cinema 17 PPV
+http://pascaltv.site:8080/F12611/b199b47b/30990
+#EXTINF:-1,US: Cinema 18 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/148831
+#EXTINF:-1,US: Cinema 19 Hellboy
+http://pascaltv.site:8080/F12611/b199b47b/192843
+#EXTINF:-1,US: Cinema 19 PPV
+http://pascaltv.site:8080/F12611/b199b47b/145990
+#EXTINF:-1,US: Cinema 20 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/30988
+#EXTINF:-1,US: Cinema 20 Venom
+http://pascaltv.site:8080/F12611/b199b47b/158413
+#EXTINF:-1,US: Cinema 21 PPV
+http://pascaltv.site:8080/F12611/b199b47b/145991
+#EXTINF:-1,US: Cinema 22 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/30994
+#EXTINF:-1,US: Cinema 23 PPV
+http://pascaltv.site:8080/F12611/b199b47b/30992
+#EXTINF:-1,US: Cinema 24 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/145992
+#EXTINF:-1,US: Cinema 25 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/145993
+#EXTINF:-1,US: Cinema 25 The Secret Life Of Pets 2
+http://pascaltv.site:8080/F12611/b199b47b/158419
+#EXTINF:-1,US: Cinema 26 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/30998
+#EXTINF:-1,US: Cinema 27 PPV
+http://pascaltv.site:8080/F12611/b199b47b/30999
+#EXTINF:-1,US: Cinema 28 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/31001
+#EXTINF:-1,US: Cinema 29 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/145995
+#EXTINF:-1,US: Cinema 30 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/145997
+#EXTINF:-1,US: Cinema 31 John Wick Chapter 3
+http://pascaltv.site:8080/F12611/b199b47b/158421
+#EXTINF:-1,US: Cinema 31 PPV
+http://pascaltv.site:8080/F12611/b199b47b/145996
+#EXTINF:-1,US: Cinema 32 PPV
+http://pascaltv.site:8080/F12611/b199b47b/148828
+#EXTINF:-1,US: Cinema 33 Danger Close
+http://pascaltv.site:8080/F12611/b199b47b/158420
+#EXTINF:-1,US: Cinema 33 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/145994
+#EXTINF:-1,US: Cinema 34 Godzilla King Of The Monsters
+http://pascaltv.site:8080/F12611/b199b47b/63471
+#EXTINF:-1,US: Cinema 34 PPV
+http://pascaltv.site:8080/F12611/b199b47b/145999
+#EXTINF:-1,US: Cinema 35 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/145998
+#EXTINF:-1,US: Cinema 36 PPV
+http://pascaltv.site:8080/F12611/b199b47b/148825
+#EXTINF:-1,US: Cinema 37 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/76363
+#EXTINF:-1,US: Cinema 38 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/148824
+#EXTINF:-1,US: Cinema 38 The Report
+http://pascaltv.site:8080/F12611/b199b47b/158422
+#EXTINF:-1,US: Cinema 39 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/194125
+#EXTINF:-1,US: Cinema 39 Scary Stories To Tell In The Dark
+http://pascaltv.site:8080/F12611/b199b47b/63476
+#EXTINF:-1,US: Cinema 40 PPV FHD
+http://pascaltv.site:8080/F12611/b199b47b/31010
+#EXTINF:-1,US: Cinema 41 Rambo Last Blood
+http://pascaltv.site:8080/F12611/b199b47b/63481
+#EXTINF:-1,US: Cinemax (West) HD
+http://pascaltv.site:8080/F12611/b199b47b/2261
+#EXTINF:-1,US: Cinemax 5 HD
+http://pascaltv.site:8080/F12611/b199b47b/2291
+#EXTINF:-1,US: Cinemax Action 2 FHD
+http://pascaltv.site:8080/F12611/b199b47b/146000
+#EXTINF:-1,US: Cinemax Action HD
+http://pascaltv.site:8080/F12611/b199b47b/56798
+#EXTINF:-1,US: Cinemax Action Max East
+http://pascaltv.site:8080/F12611/b199b47b/78144
+#EXTINF:-1,US: CINEMAX ACTION MAX HD
+http://pascaltv.site:8080/F12611/b199b47b/16145
+#EXTINF:-1,US: Cinemax East FHD
+http://pascaltv.site:8080/F12611/b199b47b/2292
+#EXTINF:-1,US: Cinemax FHD
+http://pascaltv.site:8080/F12611/b199b47b/29698
+#EXTINF:-1,US: CineMax More
+http://pascaltv.site:8080/F12611/b199b47b/61538
+#EXTINF:-1,US: CINEMAX Moremax FHD
+http://pascaltv.site:8080/F12611/b199b47b/752
+#EXTINF:-1,US: Cinemax Outer Max
+http://pascaltv.site:8080/F12611/b199b47b/15109
+#EXTINF:-1,US: Cinemax Thriller Max HD
+http://pascaltv.site:8080/F12611/b199b47b/78147
+#EXTINF:-1,US: CITY FHD
+http://pascaltv.site:8080/F12611/b199b47b/84842
+#EXTINF:-1,US: City FOX Net Rapid
+http://pascaltv.site:8080/F12611/b199b47b/198087
+#EXTINF:-1,US: CMC
+http://pascaltv.site:8080/F12611/b199b47b/265887
 #EXTINF:-1,US: CMT HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6405
-#EXTINF:-1,US: NBC GOLF HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6406
-#EXTINF:-1,US: Disney Channel HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6407
-#EXTINF:-1,US: Disney XD HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6408
-#EXTINF:-1,US: Reelz HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6409
-#EXTINF:-1,US: Viceland HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6410
+http://pascaltv.site:8080/F12611/b199b47b/2294
+#EXTINF:-1,US: CNBC FHD
+http://pascaltv.site:8080/F12611/b199b47b/2295
+#EXTINF:-1,US: CNBC News
+http://pascaltv.site:8080/F12611/b199b47b/269129
+#EXTINF:-1,US: CNBC WORLD FHD
+http://pascaltv.site:8080/F12611/b199b47b/6431
+#EXTINF:-1,US: CNN FHD
+http://pascaltv.site:8080/F12611/b199b47b/753
+#EXTINF:-1,US: CNN INTERNATIONAL HD
+http://pascaltv.site:8080/F12611/b199b47b/166630
+#EXTINF:-1,US: CNN News
+http://pascaltv.site:8080/F12611/b199b47b/225374
+#EXTINF:-1,US: Colorado Springs FOX KXRM
+http://pascaltv.site:8080/F12611/b199b47b/198131
+#EXTINF:-1,US: Columbia NBC WIS
+http://pascaltv.site:8080/F12611/b199b47b/198324
+#EXTINF:-1,US: Columbus FOX WXTX
+http://pascaltv.site:8080/F12611/b199b47b/198138
+#EXTINF:-1,US: Columbus NBC WCMH
+http://pascaltv.site:8080/F12611/b199b47b/198306
+#EXTINF:-1,US: Columbus NBC WTVA
+http://pascaltv.site:8080/F12611/b199b47b/192920
+#EXTINF:-1,US: Comedy Central HD
+http://pascaltv.site:8080/F12611/b199b47b/754
+#EXTINF:-1,US: COMEDY CENTRAL West HD
+http://pascaltv.site:8080/F12611/b199b47b/147383
+#EXTINF:-1,US: COMET TV
+http://pascaltv.site:8080/F12611/b199b47b/6497
+#EXTINF:-1,US: CON TV FHD
+http://pascaltv.site:8080/F12611/b199b47b/197736
+#EXTINF:-1,US: COOKING Channel FHD
+http://pascaltv.site:8080/F12611/b199b47b/2297
+#EXTINF:-1,US: COURT TV HD
+http://pascaltv.site:8080/F12611/b199b47b/150727
+#EXTINF:-1,US: COZI TV HD
+http://pascaltv.site:8080/F12611/b199b47b/8392
+#EXTINF:-1,US: CP24
+http://pascaltv.site:8080/F12611/b199b47b/145780
+#EXTINF:-1,US: Crime+ Investigation FHD
+http://pascaltv.site:8080/F12611/b199b47b/14813
+#EXTINF:-1,US: Cross
+http://pascaltv.site:8080/F12611/b199b47b/166141
+#EXTINF:-1,US: CW 11
+http://pascaltv.site:8080/F12611/b199b47b/166768
+#EXTINF:-1,US: CW HD
+http://pascaltv.site:8080/F12611/b199b47b/2298
+#EXTINF:-1,US: DANCE EDM
+http://pascaltv.site:8080/F12611/b199b47b/66086
+#EXTINF:-1,US: Dare to Dream Network
+http://pascaltv.site:8080/F12611/b199b47b/166169
+#EXTINF:-1,US: Davenport FOX KLJB
+http://pascaltv.site:8080/F12611/b199b47b/198140
+#EXTINF:-1,US: Davenport NBC KWQC
+http://pascaltv.site:8080/F12611/b199b47b/198360
+#EXTINF:-1,US: Daystar TV
+http://pascaltv.site:8080/F12611/b199b47b/9316
+#EXTINF:-1,US: Decatur NBC WAND
+http://pascaltv.site:8080/F12611/b199b47b/198369
+#EXTINF:-1,US: Des Moines NBC WHO
+http://pascaltv.site:8080/F12611/b199b47b/198361
 #EXTINF:-1,US: Destination America HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6411
+http://pascaltv.site:8080/F12611/b199b47b/2299
+#EXTINF:-1,US: Detroit NBC WDIV
+http://pascaltv.site:8080/F12611/b199b47b/192909
+#EXTINF:-1,US: Discipleship Arabic
+http://pascaltv.site:8080/F12611/b199b47b/166152
+#EXTINF:-1,US: Discovery Channel EAST
+http://pascaltv.site:8080/F12611/b199b47b/30922
+#EXTINF:-1,US: Discovery Channel FHD
+http://pascaltv.site:8080/F12611/b199b47b/755
+#EXTINF:-1,US: Discovery Channel West HD
+http://pascaltv.site:8080/F12611/b199b47b/199788
+#EXTINF:-1,US: Discovery FAMILIA HD
+http://pascaltv.site:8080/F12611/b199b47b/25068
+#EXTINF:-1,US: Discovery Family HD
+http://pascaltv.site:8080/F12611/b199b47b/2300
+#EXTINF:-1,US: Discovery Life HD
+http://pascaltv.site:8080/F12611/b199b47b/267254
+#EXTINF:-1,US: Discovery Science FHD
+http://pascaltv.site:8080/F12611/b199b47b/2301
+#EXTINF:-1,US: Discovery TLC
+http://pascaltv.site:8080/F12611/b199b47b/8559
+#EXTINF:-1,US: Discovery TLC Pacific
+http://pascaltv.site:8080/F12611/b199b47b/8558
+#EXTINF:-1,US: Discovery Velocity HD
+http://pascaltv.site:8080/F12611/b199b47b/2302
+#EXTINF:-1,US: Disney Channel EAST
+http://pascaltv.site:8080/F12611/b199b47b/6396
+#EXTINF:-1,US: Disney Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/2303
+#EXTINF:-1,US: Disney JR (East) HD
+http://pascaltv.site:8080/F12611/b199b47b/16113
+#EXTINF:-1,US: Disney JR HD
+http://pascaltv.site:8080/F12611/b199b47b/8608
+#EXTINF:-1,US: Disney XD EAST
+http://pascaltv.site:8080/F12611/b199b47b/6395
+#EXTINF:-1,US: Disney XD FHD
+http://pascaltv.site:8080/F12611/b199b47b/8400
+#EXTINF:-1,US: Disney XD Pacific
+http://pascaltv.site:8080/F12611/b199b47b/148219
+#EXTINF:-1,US: Ditty TV
+http://pascaltv.site:8080/F12611/b199b47b/193462
+#EXTINF:-1,US: DIY HD
+http://pascaltv.site:8080/F12611/b199b47b/6511
+#EXTINF:-1,US: DIY Network HD
+http://pascaltv.site:8080/F12611/b199b47b/2305
+#EXTINF:-1,US: DOCURAMA
+http://pascaltv.site:8080/F12611/b199b47b/173408
+#EXTINF:-1,US: Dog TV FHD
+http://pascaltv.site:8080/F12611/b199b47b/150731
+#EXTINF:-1,US: DOTHAN FOX NET
+http://pascaltv.site:8080/F12611/b199b47b/194186
+#EXTINF:-1,US: Dothan NBC WRGX
+http://pascaltv.site:8080/F12611/b199b47b/198111
+#EXTINF:-1,US: E! EAST
+http://pascaltv.site:8080/F12611/b199b47b/6387
+#EXTINF:-1,US: E! FHD
+http://pascaltv.site:8080/F12611/b199b47b/2306
+#EXTINF:-1,US: E! Network
+http://pascaltv.site:8080/F12611/b199b47b/83199
+#EXTINF:-1,US: E! WEST
+http://pascaltv.site:8080/F12611/b199b47b/151061
+#EXTINF:-1,US: E4 HD
+http://pascaltv.site:8080/F12611/b199b47b/201096
+#EXTINF:-1,US: El USAso NBC KTSM
+http://pascaltv.site:8080/F12611/b199b47b/198314
+#EXTINF:-1,US: ELEVEN SPORTS HD
+http://pascaltv.site:8080/F12611/b199b47b/7765
+#EXTINF:-1,US: ELEVEN SPORTS Network
+http://pascaltv.site:8080/F12611/b199b47b/19788
+#EXTINF:-1,US: Elmira NBC WETM
+http://pascaltv.site:8080/F12611/b199b47b/198298
+#EXTINF:-1,US: EPIX 2
+http://pascaltv.site:8080/F12611/b199b47b/6372
+#EXTINF:-1,US: EPIX DRIVE IN
+http://pascaltv.site:8080/F12611/b199b47b/35054
+#EXTINF:-1,US: EPIX FHD
+http://pascaltv.site:8080/F12611/b199b47b/15096
+#EXTINF:-1,US: EPIX HITS HD
+http://pascaltv.site:8080/F12611/b199b47b/6357
+#EXTINF:-1,US: ESP News
+http://pascaltv.site:8080/F12611/b199b47b/73856
+#EXTINF:-1,US: ESPN 1 HD
+http://pascaltv.site:8080/F12611/b199b47b/747
+#EXTINF:-1,US: ESPN 2 HD
+http://pascaltv.site:8080/F12611/b199b47b/41918
+#EXTINF:-1,US: ESPN 3 HD
+http://pascaltv.site:8080/F12611/b199b47b/14816
+#EXTINF:-1,US: ESPN Deportes HD
+http://pascaltv.site:8080/F12611/b199b47b/6446
+#EXTINF:-1,US: ESPN News HD
+http://pascaltv.site:8080/F12611/b199b47b/2312
+#EXTINF:-1,US: ESPN U HD
+http://pascaltv.site:8080/F12611/b199b47b/2311
+#EXTINF:-1,US: ESPN+ HD
+http://pascaltv.site:8080/F12611/b199b47b/14817
+#EXTINF:-1,US: Eternal Life TV Network
+http://pascaltv.site:8080/F12611/b199b47b/275976
+#EXTINF:-1,US: FAILARMY HD
+http://pascaltv.site:8080/F12611/b199b47b/173405
+#EXTINF:-1,US: Fairbanks NBC KTVF
+http://pascaltv.site:8080/F12611/b199b47b/198108
+#EXTINF:-1,US: Faith Channel
+http://pascaltv.site:8080/F12611/b199b47b/166159
+#EXTINF:-1,US: FIGHT Network HD
+http://pascaltv.site:8080/F12611/b199b47b/29682
+#EXTINF:-1,US: FIGHT Sports HD
+http://pascaltv.site:8080/F12611/b199b47b/201098
+#EXTINF:-1,US: FNTSY SPORTS NETWORK HD
+http://pascaltv.site:8080/F12611/b199b47b/150616
+#EXTINF:-1,US: Folk TV East
+http://pascaltv.site:8080/F12611/b199b47b/276039
+#EXTINF:-1,US: FOOD NETWORK (East) HD
+http://pascaltv.site:8080/F12611/b199b47b/6339
+#EXTINF:-1,US: Food Network FHD
+http://pascaltv.site:8080/F12611/b199b47b/2315
+#EXTINF:-1,US: Food Network West HD
+http://pascaltv.site:8080/F12611/b199b47b/151063
+#EXTINF:-1,US: Fort Myers NBC WBBH
+http://pascaltv.site:8080/F12611/b199b47b/198349
+#EXTINF:-1,US: Fort Wayne FOX WFFT
+http://pascaltv.site:8080/F12611/b199b47b/198146
+#EXTINF:-1,US: FOX (BALTIMORE)
+http://pascaltv.site:8080/F12611/b199b47b/41027
+#EXTINF:-1,US: FOX (Pittsburgh) PA WPGH
+http://pascaltv.site:8080/F12611/b199b47b/41038
+#EXTINF:-1,US: FOX 5 (ATLANTA)
+http://pascaltv.site:8080/F12611/b199b47b/8433
+#EXTINF:-1,US: FOX 7 (AUSTIN)
+http://pascaltv.site:8080/F12611/b199b47b/41025
+#EXTINF:-1,US: FOX 8 (CLEVELAND) HD
+http://pascaltv.site:8080/F12611/b199b47b/8522
+#EXTINF:-1,US: FOX 11 Green Bay
+http://pascaltv.site:8080/F12611/b199b47b/200822
+#EXTINF:-1,US: FOX 16 (LITTLE ROCK)
+http://pascaltv.site:8080/F12611/b199b47b/199471
+#EXTINF:-1,US: FOX 17 (La Crosse)
+http://pascaltv.site:8080/F12611/b199b47b/199473
+#EXTINF:-1,US: FOX 18 (Davenport)
+http://pascaltv.site:8080/F12611/b199b47b/196204
+#EXTINF:-1,US: FOX 23 (Albany)
+http://pascaltv.site:8080/F12611/b199b47b/196198
+#EXTINF:-1,US: FOX 25 (BOSTON)
+http://pascaltv.site:8080/F12611/b199b47b/41026
+#EXTINF:-1,US: FOX 25 HD
+http://pascaltv.site:8080/F12611/b199b47b/201209
+#EXTINF:-1,US: FOX 29 (BUFFALO)
+http://pascaltv.site:8080/F12611/b199b47b/41030
+#EXTINF:-1,US: FOX 32 (CHICAGO)
+http://pascaltv.site:8080/F12611/b199b47b/8521
+#EXTINF:-1,US: FOX 43 (Knoxville)
+http://pascaltv.site:8080/F12611/b199b47b/56974
+#EXTINF:-1,US: FOX 46 HD
+http://pascaltv.site:8080/F12611/b199b47b/150606
+#EXTINF:-1,US: FOX 50 (Raleigh)
+http://pascaltv.site:8080/F12611/b199b47b/166771
+#EXTINF:-1,US: FOX Atlanta
+http://pascaltv.site:8080/F12611/b199b47b/201042
+#EXTINF:-1,US: FOX Bakersfield
+http://pascaltv.site:8080/F12611/b199b47b/200832
+#EXTINF:-1,US: FOX Bowling Green
+http://pascaltv.site:8080/F12611/b199b47b/200816
+#EXTINF:-1,US: FOX Buffalo
+http://pascaltv.site:8080/F12611/b199b47b/82312
+#EXTINF:-1,US: FOX Business HD
+http://pascaltv.site:8080/F12611/b199b47b/2316
+#EXTINF:-1,US: FOX Business Network HD
+http://pascaltv.site:8080/F12611/b199b47b/201099
+#EXTINF:-1,US: Fox Bussines Network
+http://pascaltv.site:8080/F12611/b199b47b/8402
+#EXTINF:-1,US: FOX Chattanooga
+http://pascaltv.site:8080/F12611/b199b47b/200834
+#EXTINF:-1,US: FOX Chicago
+http://pascaltv.site:8080/F12611/b199b47b/201041
+#EXTINF:-1,US: Fox College Sports Atlantic
+http://pascaltv.site:8080/F12611/b199b47b/7767
+#EXTINF:-1,US: Fox College Sports Pacific
+http://pascaltv.site:8080/F12611/b199b47b/194126
+#EXTINF:-1,US: FOX Corpus Christi
+http://pascaltv.site:8080/F12611/b199b47b/200823
+#EXTINF:-1,US: FOX DALLAS TX KDFW
+http://pascaltv.site:8080/F12611/b199b47b/35052
+#EXTINF:-1,US: FOX Denver
+http://pascaltv.site:8080/F12611/b199b47b/8525
+#EXTINF:-1,US: FOX DENVER CO KDVR
+http://pascaltv.site:8080/F12611/b199b47b/35053
+#EXTINF:-1,US: FOX Deportes HD
+http://pascaltv.site:8080/F12611/b199b47b/14820
+#EXTINF:-1,US: FOX Des Moines
+http://pascaltv.site:8080/F12611/b199b47b/200830
+#EXTINF:-1,US: FOX DETROIT MI WJBK
+http://pascaltv.site:8080/F12611/b199b47b/41028
+#EXTINF:-1,US: FOX El Paso
+http://pascaltv.site:8080/F12611/b199b47b/200829
+#EXTINF:-1,US: FOX Evansville
+http://pascaltv.site:8080/F12611/b199b47b/200818
+#EXTINF:-1,US: FOX FHD
+http://pascaltv.site:8080/F12611/b199b47b/1556
+#EXTINF:-1,US: FOX Fresno
+http://pascaltv.site:8080/F12611/b199b47b/200827
+#EXTINF:-1,US: FOX Hartford
+http://pascaltv.site:8080/F12611/b199b47b/8529
+#EXTINF:-1,US: FOX HARTFORD CT WTIC
+http://pascaltv.site:8080/F12611/b199b47b/41029
+#EXTINF:-1,US: FOX Houston
+http://pascaltv.site:8080/F12611/b199b47b/147559
+#EXTINF:-1,US: FOX HOUSTON TX KRIV
+http://pascaltv.site:8080/F12611/b199b47b/41035
+#EXTINF:-1,US: FOX Indianapolis
+http://pascaltv.site:8080/F12611/b199b47b/147560
+#EXTINF:-1,US: FOX INDIANAPOLIS IN WXIN
+http://pascaltv.site:8080/F12611/b199b47b/45562
+#EXTINF:-1,US: FOX JACKSONVILLE FL WFOX
+http://pascaltv.site:8080/F12611/b199b47b/45559
+#EXTINF:-1,US: FOX JACKSONVILLE HD
+http://pascaltv.site:8080/F12611/b199b47b/8531
+#EXTINF:-1,US: FOX KADN Lafayette
+http://pascaltv.site:8080/F12611/b199b47b/150780
+#EXTINF:-1,US: FOX KCBA Salinas
+http://pascaltv.site:8080/F12611/b199b47b/150748
+#EXTINF:-1,US: FOX KCPQ Tacoma
+http://pascaltv.site:8080/F12611/b199b47b/150821
+#EXTINF:-1,US: FOX KCYU Yakima
+http://pascaltv.site:8080/F12611/b199b47b/150825
+#EXTINF:-1,US: FOX KFXK Longview
+http://pascaltv.site:8080/F12611/b199b47b/150814
+#EXTINF:-1,US: FOX KFXV Harlingen
+http://pascaltv.site:8080/F12611/b199b47b/150812
+#EXTINF:-1,US: FOX KHON Honolulu
+http://pascaltv.site:8080/F12611/b199b47b/150758
+#EXTINF:-1,US: FOX KICU San Jose
+http://pascaltv.site:8080/F12611/b199b47b/150764
+#EXTINF:-1,US: FOX KKFX San Luis Obispo
+http://pascaltv.site:8080/F12611/b199b47b/150759
+#EXTINF:-1,US: FOX KLJB Davenport
+http://pascaltv.site:8080/F12611/b199b47b/150757
+#EXTINF:-1,US: FOX KLRT Little Rock
+http://pascaltv.site:8080/F12611/b199b47b/150744
+#EXTINF:-1,US: FOX KLSR Eugene
+http://pascaltv.site:8080/F12611/b199b47b/150798
+#EXTINF:-1,US: FOX KMSB Tucson
+http://pascaltv.site:8080/F12611/b199b47b/150746
+#EXTINF:-1,US: FOX KMSS Shreveport
+http://pascaltv.site:8080/F12611/b199b47b/150784
+#EXTINF:-1,US: FOX KNIN Caldwell
+http://pascaltv.site:8080/F12611/b199b47b/150781
+#EXTINF:-1,US: FOX KPTV Portland
+http://pascaltv.site:8080/F12611/b199b47b/150800
+#EXTINF:-1,US: FOX KRBK Osage Beach
+http://pascaltv.site:8080/F12611/b199b47b/150783
+#EXTINF:-1,US: FOX KRQE Alburquerque
+http://pascaltv.site:8080/F12611/b199b47b/150794
+#EXTINF:-1,US: FOX KSAZ Phoenix
+http://pascaltv.site:8080/F12611/b199b47b/150745
+#EXTINF:-1,US: FOX KSTU Salt Lake City
+http://pascaltv.site:8080/F12611/b199b47b/150817
+#EXTINF:-1,US: FOX KSWB San Diego
+http://pascaltv.site:8080/F12611/b199b47b/150749
+#EXTINF:-1,US: FOX KTTV Los Angeles
+http://pascaltv.site:8080/F12611/b199b47b/150761
+#EXTINF:-1,US: FOX KTTW Sioux Falls
+http://pascaltv.site:8080/F12611/b199b47b/150765
+#EXTINF:-1,US: FOX KTVI St Louis
+http://pascaltv.site:8080/F12611/b199b47b/150827
+#EXTINF:-1,US: FOX KTVU Oakland
+http://pascaltv.site:8080/F12611/b199b47b/150747
+#EXTINF:-1,US: FOX KTXL Sacramento
+http://pascaltv.site:8080/F12611/b199b47b/150766
+#EXTINF:-1,US: FOX KVRR Fargo
+http://pascaltv.site:8080/F12611/b199b47b/150802
+#EXTINF:-1,US: FOX KVVU Henderson
+http://pascaltv.site:8080/F12611/b199b47b/150788
+#EXTINF:-1,US: FOX KXRM Colorado Springs
+http://pascaltv.site:8080/F12611/b199b47b/150750
+#EXTINF:-1,US: FOX Lexington
+http://pascaltv.site:8080/F12611/b199b47b/200817
+#EXTINF:-1,US: Fox Life
+http://pascaltv.site:8080/F12611/b199b47b/76866
+#EXTINF:-1,US: FOX Lincoln
+http://pascaltv.site:8080/F12611/b199b47b/200828
+#EXTINF:-1,US: FOX LOS ANGELES CA KTTV
+http://pascaltv.site:8080/F12611/b199b47b/35049
+#EXTINF:-1,US: FOX Macon
+http://pascaltv.site:8080/F12611/b199b47b/200821
+#EXTINF:-1,US: FOX Madison
+http://pascaltv.site:8080/F12611/b199b47b/200835
+#EXTINF:-1,US: FOX MIAMI
+http://pascaltv.site:8080/F12611/b199b47b/147562
+#EXTINF:-1,US: FOX MIAMI FL WSVN
+http://pascaltv.site:8080/F12611/b199b47b/45560
+#EXTINF:-1,US: FOX Milwaukee
+http://pascaltv.site:8080/F12611/b199b47b/148220
+#EXTINF:-1,US: FOX MILWAUKEE WI WITI
+http://pascaltv.site:8080/F12611/b199b47b/45566
+#EXTINF:-1,US: FOX MINNEAPOLIS HD
+http://pascaltv.site:8080/F12611/b199b47b/8512
+#EXTINF:-1,US: FOX NASHVILLE TN WZTV
+http://pascaltv.site:8080/F12611/b199b47b/45563
+#EXTINF:-1,US: FOX Net Abilene
+http://pascaltv.site:8080/F12611/b199b47b/150820
+#EXTINF:-1,US: FOX Net Binghampton
+http://pascaltv.site:8080/F12611/b199b47b/150797
+#EXTINF:-1,US: FOX Net Charlottesville
+http://pascaltv.site:8080/F12611/b199b47b/150829
+#EXTINF:-1,US: FOX Net Clarksburg
+http://pascaltv.site:8080/F12611/b199b47b/150828
+#EXTINF:-1,US: FOX Net Dothan
+http://pascaltv.site:8080/F12611/b199b47b/150743
+#EXTINF:-1,US: FOX Net Harrisonburg
+http://pascaltv.site:8080/F12611/b199b47b/150819
+#EXTINF:-1,US: FOX Net Lake Charles
+http://pascaltv.site:8080/F12611/b199b47b/150782
+#EXTINF:-1,US: FOX Net Lubbock
+http://pascaltv.site:8080/F12611/b199b47b/150815
+#EXTINF:-1,US: FOX Net Marquette
+http://pascaltv.site:8080/F12611/b199b47b/150779
+#EXTINF:-1,US: FOX Net Medford
+http://pascaltv.site:8080/F12611/b199b47b/150818
+#EXTINF:-1,US: FOX Net Minot
+http://pascaltv.site:8080/F12611/b199b47b/150785
+#EXTINF:-1,US: FOX Net Panama City
+http://pascaltv.site:8080/F12611/b199b47b/150763
+#EXTINF:-1,US: FOX Net Presque Isle
+http://pascaltv.site:8080/F12611/b199b47b/150777
+#EXTINF:-1,US: FOX Net Rapid
+http://pascaltv.site:8080/F12611/b199b47b/150811
+#EXTINF:-1,US: FOX Net San Angelo
+http://pascaltv.site:8080/F12611/b199b47b/150816
+#EXTINF:-1,US: FOX Net Sherman
+http://pascaltv.site:8080/F12611/b199b47b/150830
+#EXTINF:-1,US: FOX Net Twin Falls
+http://pascaltv.site:8080/F12611/b199b47b/150760
+#EXTINF:-1,US: FOX Net Wilmington
+http://pascaltv.site:8080/F12611/b199b47b/150799
+#EXTINF:-1,US: Fox Network
+http://pascaltv.site:8080/F12611/b199b47b/29666
+#EXTINF:-1,US: FOX NEW YORK
+http://pascaltv.site:8080/F12611/b199b47b/8504
+#EXTINF:-1,US: FOX NEW YORK NY WNYW
+http://pascaltv.site:8080/F12611/b199b47b/35050
+#EXTINF:-1,US: FOX NEWS HD
+http://pascaltv.site:8080/F12611/b199b47b/1611
+#EXTINF:-1,US: FOX Ocala
+http://pascaltv.site:8080/F12611/b199b47b/8505
+#EXTINF:-1,US: FOX Omaha
+http://pascaltv.site:8080/F12611/b199b47b/200825
+#EXTINF:-1,US: FOX Orlando
+http://pascaltv.site:8080/F12611/b199b47b/8506
+#EXTINF:-1,US: FOX Ottumwa
+http://pascaltv.site:8080/F12611/b199b47b/200820
+#EXTINF:-1,US: FOX Paducah
+http://pascaltv.site:8080/F12611/b199b47b/200831
+#EXTINF:-1,US: FOX PHILADELPHIA PA WTXF
+http://pascaltv.site:8080/F12611/b199b47b/41036
+#EXTINF:-1,US: FOX Pittsburgh
+http://pascaltv.site:8080/F12611/b199b47b/8509
+#EXTINF:-1,US: FOX Reno
+http://pascaltv.site:8080/F12611/b199b47b/200824
+#EXTINF:-1,US: FOX Rochester
+http://pascaltv.site:8080/F12611/b199b47b/200815
+#EXTINF:-1,US: FOX Sacramento
+http://pascaltv.site:8080/F12611/b199b47b/146004
+#EXTINF:-1,US: FOX SACRAMENTO CA KTXL
+http://pascaltv.site:8080/F12611/b199b47b/45565
+#EXTINF:-1,US: FOX SALT LAKE CITY UT KSTU
+http://pascaltv.site:8080/F12611/b199b47b/45564
+#EXTINF:-1,US: FOX SAN ANTONIO TX KABB
+http://pascaltv.site:8080/F12611/b199b47b/45567
+#EXTINF:-1,US: FOX San Diego
+http://pascaltv.site:8080/F12611/b199b47b/157319
+#EXTINF:-1,US: FOX SAN DIEGO CA KSWB
+http://pascaltv.site:8080/F12611/b199b47b/41041
+#EXTINF:-1,US: FOX Savannah
+http://pascaltv.site:8080/F12611/b199b47b/200819
+#EXTINF:-1,US: FOX SOCCER PLUS HD
+http://pascaltv.site:8080/F12611/b199b47b/2314
+#EXTINF:-1,US: FOX SOCCER SUN HD
+http://pascaltv.site:8080/F12611/b199b47b/35549
+#EXTINF:-1,US: FOX SPORTS (Arizona) HD
+http://pascaltv.site:8080/F12611/b199b47b/2319
+#EXTINF:-1,US: FOX SPORTS (Detroit) HD
+http://pascaltv.site:8080/F12611/b199b47b/6463
+#EXTINF:-1,US: FOX SPORTS (Florida) HD
+http://pascaltv.site:8080/F12611/b199b47b/6452
+#EXTINF:-1,US: FOX SPORTS (Mid West) HD
+http://pascaltv.site:8080/F12611/b199b47b/58557
+#EXTINF:-1,US: FOX SPORTS (North) HD
+http://pascaltv.site:8080/F12611/b199b47b/2324
+#EXTINF:-1,US: FOX SPORTS (Ohio) HD
+http://pascaltv.site:8080/F12611/b199b47b/3358
+#EXTINF:-1,US: FOX SPORTS (Oklahoma)
+http://pascaltv.site:8080/F12611/b199b47b/15031
+#EXTINF:-1,US: FOX SPORTS (Prime Ticket) HD
+http://pascaltv.site:8080/F12611/b199b47b/2326
+#EXTINF:-1,US: FOX SPORTS (San Diego) HD
+http://pascaltv.site:8080/F12611/b199b47b/3361
+#EXTINF:-1,US: FOX SPORTS (South West) HD
+http://pascaltv.site:8080/F12611/b199b47b/3364
+#EXTINF:-1,US: FOX SPORTS (South) HD
+http://pascaltv.site:8080/F12611/b199b47b/3362
+#EXTINF:-1,US: FOX SPORTS (Sun) HD
+http://pascaltv.site:8080/F12611/b199b47b/2325
+#EXTINF:-1,US: FOX SPORTS (Tennessee) HD
+http://pascaltv.site:8080/F12611/b199b47b/3366
+#EXTINF:-1,US: FOX SPORTS (West) HD
+http://pascaltv.site:8080/F12611/b199b47b/3367
+#EXTINF:-1,US: FOX SPORTS (Wisconsin)
+http://pascaltv.site:8080/F12611/b199b47b/157324
+#EXTINF:-1,US: FOX SPORTS 1 FHD
+http://pascaltv.site:8080/F12611/b199b47b/756
+#EXTINF:-1,US: FOX SPORTS 2 FHD
+http://pascaltv.site:8080/F12611/b199b47b/757
+#EXTINF:-1,US: FOX SPORTS ARIZONA PLUS HD
+http://pascaltv.site:8080/F12611/b199b47b/150613
+#EXTINF:-1,US: FOX SPORTS Carolina HD
+http://pascaltv.site:8080/F12611/b199b47b/8598
+#EXTINF:-1,US: FOX SPORTS DEPORTES
+http://pascaltv.site:8080/F12611/b199b47b/268327
+#EXTINF:-1,US: FOX SPORTS HD
+http://pascaltv.site:8080/F12611/b199b47b/74369
+#EXTINF:-1,US: FOX SPORTS NEW ORLEANS HD
+http://pascaltv.site:8080/F12611/b199b47b/150614
+#EXTINF:-1,US: FOX SPORTS Racing HD
+http://pascaltv.site:8080/F12611/b199b47b/2327
+#EXTINF:-1,US: FOX SPORTS SOUTH CAROLINA
+http://pascaltv.site:8080/F12611/b199b47b/277374
+#EXTINF:-1,US: FOX SPORTS Southeast
+http://pascaltv.site:8080/F12611/b199b47b/82301
+#EXTINF:-1,US: FOX SPORTS SPORTSTIME
+http://pascaltv.site:8080/F12611/b199b47b/202034
+#EXTINF:-1,US: FOX SPORTS SPORTSTIME OHIO HD
+http://pascaltv.site:8080/F12611/b199b47b/147576
+#EXTINF:-1,US: FOX Tampa
+http://pascaltv.site:8080/F12611/b199b47b/8494
+#EXTINF:-1,US: FOX Tri-Cities
+http://pascaltv.site:8080/F12611/b199b47b/199801
+#EXTINF:-1,US: FOX Waco
+http://pascaltv.site:8080/F12611/b199b47b/63456
+#EXTINF:-1,US: FOX WAGA Atlanta
+http://pascaltv.site:8080/F12611/b199b47b/150769
+#EXTINF:-1,US: FOX WALA Mobile
+http://pascaltv.site:8080/F12611/b199b47b/150751
+#EXTINF:-1,US: FOX Washington
+http://pascaltv.site:8080/F12611/b199b47b/8495
+#EXTINF:-1,US: FOX WDBD Jackson
+http://pascaltv.site:8080/F12611/b199b47b/150792
+#EXTINF:-1,US: FOX WDRB Louisville
+http://pascaltv.site:8080/F12611/b199b47b/150774
+#EXTINF:-1,US: FOX WFFF Burlington
+http://pascaltv.site:8080/F12611/b199b47b/150823
+#EXTINF:-1,US: FOX WFFT Fort Wayne
+http://pascaltv.site:8080/F12611/b199b47b/150770
+#EXTINF:-1,US: FOX WFLD Chicago
+http://pascaltv.site:8080/F12611/b199b47b/150775
+#EXTINF:-1,US: FOX WFLX West Palm Beach
+http://pascaltv.site:8080/F12611/b199b47b/150752
+#EXTINF:-1,US: FOX WFTX Cape Coral
+http://pascaltv.site:8080/F12611/b199b47b/150762
+#EXTINF:-1,US: FOX WFXB Myrtle Beach
+http://pascaltv.site:8080/F12611/b199b47b/150808
+#EXTINF:-1,US: FOX WFXG Augusta
+http://pascaltv.site:8080/F12611/b199b47b/150755
+#EXTINF:-1,US: FOX WFXR Roanoke
+http://pascaltv.site:8080/F12611/b199b47b/150831
+#EXTINF:-1,US: FOX WFXT Boston
+http://pascaltv.site:8080/F12611/b199b47b/150787
+#EXTINF:-1,US: FOX WGGB Springfield
+http://pascaltv.site:8080/F12611/b199b47b/150773
+#EXTINF:-1,US: FOX WGHP High Point
+http://pascaltv.site:8080/F12611/b199b47b/150786
+#EXTINF:-1,US: FOX WGMB Baton Rouge
+http://pascaltv.site:8080/F12611/b199b47b/150772
+#EXTINF:-1,US: FOX WHBQ Memphis
+http://pascaltv.site:8080/F12611/b199b47b/150810
+#EXTINF:-1,US: FOX WHNS Greenville
+http://pascaltv.site:8080/F12611/b199b47b/150813
+#EXTINF:-1,US: FOX WITI Milwaukee
+http://pascaltv.site:8080/F12611/b199b47b/150842
+#EXTINF:-1,US: FOX WJW Cleveland
+http://pascaltv.site:8080/F12611/b199b47b/150807
+#EXTINF:-1,US: FOX WJZY Belmont
+http://pascaltv.site:8080/F12611/b199b47b/150801
+#EXTINF:-1,US: FOX WLAX La Crosse
+http://pascaltv.site:8080/F12611/b199b47b/150822
+#EXTINF:-1,US: FOX WNAC Providence
+http://pascaltv.site:8080/F12611/b199b47b/150806
+#EXTINF:-1,US: FOX WNYW New York
+http://pascaltv.site:8080/F12611/b199b47b/150790
+#EXTINF:-1,US: FOX WOFL Orlando
+http://pascaltv.site:8080/F12611/b199b47b/150768
+#EXTINF:-1,US: FOX WPMT New York
+http://pascaltv.site:8080/F12611/b199b47b/150804
+#EXTINF:-1,US: FOX WRAZ Raleigh
+http://pascaltv.site:8080/F12611/b199b47b/150789
+#EXTINF:-1,US: FOX WSYM Lansing
+http://pascaltv.site:8080/F12611/b199b47b/150778
+#EXTINF:-1,US: FOX WSYT Syracuse
+http://pascaltv.site:8080/F12611/b199b47b/150791
+#EXTINF:-1,US: FOX WTAT Charleston
+http://pascaltv.site:8080/F12611/b199b47b/150809
+#EXTINF:-1,US: FOX WTIC Hartford
+http://pascaltv.site:8080/F12611/b199b47b/150756
+#EXTINF:-1,US: FOX WTXF Philadelphia
+http://pascaltv.site:8080/F12611/b199b47b/150803
+#EXTINF:-1,US: FOX WUPW Toledo
+http://pascaltv.site:8080/F12611/b199b47b/150795
+#EXTINF:-1,US: FOX WVBT Virginia Beach
+http://pascaltv.site:8080/F12611/b199b47b/150824
+#EXTINF:-1,US: FOX WWCP Johnstown
+http://pascaltv.site:8080/F12611/b199b47b/150805
+#EXTINF:-1,US: FOX WXIX Newport
+http://pascaltv.site:8080/F12611/b199b47b/150771
+#EXTINF:-1,US: FOX WXMI Grand Rapids
+http://pascaltv.site:8080/F12611/b199b47b/150776
+#EXTINF:-1,US: FOX WXTX Columbus
+http://pascaltv.site:8080/F12611/b199b47b/150754
+#EXTINF:-1,US: FOX WXXA Albany
+http://pascaltv.site:8080/F12611/b199b47b/150793
+#EXTINF:-1,US: FOX WYFX Youngstown
+http://pascaltv.site:8080/F12611/b199b47b/150796
+#EXTINF:-1,US: FOX WYZZ Bloomington
+http://pascaltv.site:8080/F12611/b199b47b/150767
+#EXTINF:-1,US: FOX WZDX Huntsville
+http://pascaltv.site:8080/F12611/b199b47b/150753
+#EXTINF:-1,US: Free Speech TV
+http://pascaltv.site:8080/F12611/b199b47b/150730
 #EXTINF:-1,US: Freeform Channel
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6412
-#EXTINF:-1,US: BUZZER TV
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6413
-#EXTINF:-1,US: Universal Kids HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6414
-#EXTINF:-1,US: Hallmark Movies&Mysteries HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6415
-#EXTINF:-1,US: SportsNet One HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6416
-#EXTINF:-1,US: Fox Sport 1 HD (FS1)
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6417
-#EXTINF:-1,US: Tsn-Sport 5 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6418
-#EXTINF:-1,US: Tsn-Sport 4 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6419
-#EXTINF:-1,US: Tsn-Sport 3 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6420
-#EXTINF:-1,US: Tsn-Sport 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6421
-#EXTINF:-1,US: Tsn-Sport 1 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6422
-#EXTINF:-1,US: Fox Sport 2 HD (FS2)
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6423
-#EXTINF:-1,US: beIN SPORTS HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6424
+http://pascaltv.site:8080/F12611/b199b47b/2329
+#EXTINF:-1,US: FREEFORM EAST
+http://pascaltv.site:8080/F12611/b199b47b/6363
+#EXTINF:-1,US: Fresno NBC KSEE
+http://pascaltv.site:8080/F12611/b199b47b/198123
+#EXTINF:-1,US: Fubo Sports Network
+http://pascaltv.site:8080/F12611/b199b47b/147553
+#EXTINF:-1,US: FUSAION HD
+http://pascaltv.site:8080/F12611/b199b47b/194128
+#EXTINF:-1,US: Fuse HD
+http://pascaltv.site:8080/F12611/b199b47b/13050
+#EXTINF:-1,US: FUSION
+http://pascaltv.site:8080/F12611/b199b47b/6361
+#EXTINF:-1,US: FX East HD
+http://pascaltv.site:8080/F12611/b199b47b/6342
+#EXTINF:-1,US: FX HD
+http://pascaltv.site:8080/F12611/b199b47b/758
+#EXTINF:-1,US: FX Movie Channel FHD
+http://pascaltv.site:8080/F12611/b199b47b/39873
+#EXTINF:-1,US: FXM HD
+http://pascaltv.site:8080/F12611/b199b47b/192749
+#EXTINF:-1,US: FXM RETRO HD
+http://pascaltv.site:8080/F12611/b199b47b/5840
+#EXTINF:-1,US: FXX East HD
+http://pascaltv.site:8080/F12611/b199b47b/6373
+#EXTINF:-1,US: FXX HD
+http://pascaltv.site:8080/F12611/b199b47b/2330
+#EXTINF:-1,US: FYI
+http://pascaltv.site:8080/F12611/b199b47b/30897
+#EXTINF:-1,US: GA Savannah NBC WSAV
+http://pascaltv.site:8080/F12611/b199b47b/166779
+#EXTINF:-1,US: Gainesville NBC WNBW
+http://pascaltv.site:8080/F12611/b199b47b/198350
+#EXTINF:-1,US: GALAVISION
+http://pascaltv.site:8080/F12611/b199b47b/147551
+#EXTINF:-1,US: GAME SHOW NETWORK (GSN) HD
+http://pascaltv.site:8080/F12611/b199b47b/75317
+#EXTINF:-1,US: Game Show Network HD
+http://pascaltv.site:8080/F12611/b199b47b/466
+#EXTINF:-1,US: Gem Shopping Network
+http://pascaltv.site:8080/F12611/b199b47b/166174
+#EXTINF:-1,US: GINX eSports HD
+http://pascaltv.site:8080/F12611/b199b47b/83950
+#EXTINF:-1,US: GOL TV HD
+http://pascaltv.site:8080/F12611/b199b47b/14848
+#EXTINF:-1,US: GOLF Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/9232
+#EXTINF:-1,US: Great American Country HD
+http://pascaltv.site:8080/F12611/b199b47b/200075
+#EXTINF:-1,US: Greenville FOX WHNS
+http://pascaltv.site:8080/F12611/b199b47b/198085
+#EXTINF:-1,US: Greenville NBC WYFF
+http://pascaltv.site:8080/F12611/b199b47b/198321
+#EXTINF:-1,US: GRIT TV
+http://pascaltv.site:8080/F12611/b199b47b/15086
+#EXTINF:-1,US: GRIT TV Movies
+http://pascaltv.site:8080/F12611/b199b47b/196343
+#EXTINF:-1,US: GSN HD
+http://pascaltv.site:8080/F12611/b199b47b/2332
+#EXTINF:-1,US: H2 HD
+http://pascaltv.site:8080/F12611/b199b47b/6310
+#EXTINF:-1,US: Hallmark Channel FHD
+http://pascaltv.site:8080/F12611/b199b47b/759
+#EXTINF:-1,US: Hallmark Drama FHD
+http://pascaltv.site:8080/F12611/b199b47b/3387
+#EXTINF:-1,US: HALLMARK EAST
+http://pascaltv.site:8080/F12611/b199b47b/30899
+#EXTINF:-1,US: Hallmark Movies & Mysteries HD
+http://pascaltv.site:8080/F12611/b199b47b/3388
+#EXTINF:-1,US: Hallmark Movies&Mysteries FHD
+http://pascaltv.site:8080/F12611/b199b47b/198948
+#EXTINF:-1,US: Harlingen FOX KFXV
+http://pascaltv.site:8080/F12611/b199b47b/198090
+#EXTINF:-1,US: Harrisonburg FOX Net
+http://pascaltv.site:8080/F12611/b199b47b/198097
+#EXTINF:-1,US: Hartford FOX WTIC
+http://pascaltv.site:8080/F12611/b199b47b/198132
+#EXTINF:-1,US: HBO (East) HD
+http://pascaltv.site:8080/F12611/b199b47b/6382
+#EXTINF:-1,US: HBO (West) HD
+http://pascaltv.site:8080/F12611/b199b47b/6383
+#EXTINF:-1,US: HBO 2 COMEDY
+http://pascaltv.site:8080/F12611/b199b47b/24325
+#EXTINF:-1,US: HBO 2 FHD
+http://pascaltv.site:8080/F12611/b199b47b/5844
+#EXTINF:-1,US: HBO 2 West FHD
+http://pascaltv.site:8080/F12611/b199b47b/61513
+#EXTINF:-1,US: HBO COMEDY FHD
+http://pascaltv.site:8080/F12611/b199b47b/2335
+#EXTINF:-1,US: HBO Family FHD
+http://pascaltv.site:8080/F12611/b199b47b/760
+#EXTINF:-1,US: HBO HD
+http://pascaltv.site:8080/F12611/b199b47b/2336
+#EXTINF:-1,US: HBO Plus West FHD
+http://pascaltv.site:8080/F12611/b199b47b/76364
+#EXTINF:-1,US: HBO SIGNATURE EAST FHD
+http://pascaltv.site:8080/F12611/b199b47b/198514
+#EXTINF:-1,US: HBO Signature FHD
+http://pascaltv.site:8080/F12611/b199b47b/6305
+#EXTINF:-1,US: HBO Zone FHD
+http://pascaltv.site:8080/F12611/b199b47b/6328
+#EXTINF:-1,US: Helena NBC KTVH
+http://pascaltv.site:8080/F12611/b199b47b/192928
+#EXTINF:-1,US: HGTV East HD
+http://pascaltv.site:8080/F12611/b199b47b/6369
+#EXTINF:-1,US: HGTV FHD
+http://pascaltv.site:8080/F12611/b199b47b/2273
+#EXTINF:-1,US: HGTV West HD
+http://pascaltv.site:8080/F12611/b199b47b/147578
+#EXTINF:-1,US: History 2 FHD
+http://pascaltv.site:8080/F12611/b199b47b/75350
+#EXTINF:-1,US: History Channel EAST
+http://pascaltv.site:8080/F12611/b199b47b/57009
+#EXTINF:-1,US: History Channel FHD
+http://pascaltv.site:8080/F12611/b199b47b/761
+#EXTINF:-1,US: HIT LIST
+http://pascaltv.site:8080/F12611/b199b47b/66074
+#EXTINF:-1,US: HLN HD
+http://pascaltv.site:8080/F12611/b199b47b/6346
+#EXTINF:-1,US: Holiness Channel
+http://pascaltv.site:8080/F12611/b199b47b/166165
+#EXTINF:-1,US: Horror Channel
+http://pascaltv.site:8080/F12611/b199b47b/56922
+#EXTINF:-1,US: HSN HD
+http://pascaltv.site:8080/F12611/b199b47b/15455
+#EXTINF:-1,US: Human Rights
+http://pascaltv.site:8080/F12611/b199b47b/166156
+#EXTINF:-1,US: Huntsville FOX WZDX
+http://pascaltv.site:8080/F12611/b199b47b/198184
+#EXTINF:-1,US: I Am
+http://pascaltv.site:8080/F12611/b199b47b/166217
+#EXTINF:-1,US: IFC HD
+http://pascaltv.site:8080/F12611/b199b47b/2339
+#EXTINF:-1,US: IFC West HD
+http://pascaltv.site:8080/F12611/b199b47b/40652
+#EXTINF:-1,US: Iman TV
+http://pascaltv.site:8080/F12611/b199b47b/166201
+#EXTINF:-1,US: Incarnation
+http://pascaltv.site:8080/F12611/b199b47b/166176
+#EXTINF:-1,US: IndiePlex FHD
+http://pascaltv.site:8080/F12611/b199b47b/148837
+#EXTINF:-1,US: INSP HD
+http://pascaltv.site:8080/F12611/b199b47b/30900
+#EXTINF:-1,US: Investigation Discovery EAST
+http://pascaltv.site:8080/F12611/b199b47b/30923
+#EXTINF:-1,US: Investigation Discovery FHD
+http://pascaltv.site:8080/F12611/b199b47b/8557
+#EXTINF:-1,US: ION FHD
+http://pascaltv.site:8080/F12611/b199b47b/147661
+#EXTINF:-1,US: Jackson NBC WLBT
+http://pascaltv.site:8080/F12611/b199b47b/192922
+#EXTINF:-1,US: Jackson NBC WNBJ
+http://pascaltv.site:8080/F12611/b199b47b/198282
+#EXTINF:-1,US: Jesus or Muhammad Arabic
+http://pascaltv.site:8080/F12611/b199b47b/166210
+#EXTINF:-1,US: Jesus or Muhammad English
+http://pascaltv.site:8080/F12611/b199b47b/166227
+#EXTINF:-1,US: Jewish Life TV
+http://pascaltv.site:8080/F12611/b199b47b/166182
+#EXTINF:-1,US: Johnstown FOX WWCP
+http://pascaltv.site:8080/F12611/b199b47b/198126
+#EXTINF:-1,US: Jonesboro NBC KAIT
+http://pascaltv.site:8080/F12611/b199b47b/198115
+#EXTINF:-1,US: Joplin Pittsburg NBC KSNF
+http://pascaltv.site:8080/F12611/b199b47b/198292
+#EXTINF:-1,US: Juneau douglas NBC KATH
+http://pascaltv.site:8080/F12611/b199b47b/198109
+#EXTINF:-1,US: JUSTICE CENTRAL HD
+http://pascaltv.site:8080/F12611/b199b47b/150732
+#EXTINF:-1,US: KATC-TV
+http://pascaltv.site:8080/F12611/b199b47b/166348
+#EXTINF:-1,US: KCHF-TV
+http://pascaltv.site:8080/F12611/b199b47b/166192
+#EXTINF:-1,US: KERO-TV
+http://pascaltv.site:8080/F12611/b199b47b/166250
+#EXTINF:-1,US: KGTV-TV
+http://pascaltv.site:8080/F12611/b199b47b/166187
+#EXTINF:-1,US: KGUN-TV
+http://pascaltv.site:8080/F12611/b199b47b/166190
+#EXTINF:-1,US: KIDSB Discovery Family
+http://pascaltv.site:8080/F12611/b199b47b/194132
+#EXTINF:-1,US: KIDZ BOP
+http://pascaltv.site:8080/F12611/b199b47b/66104
+#EXTINF:-1,US: KIDZ ONLY
+http://pascaltv.site:8080/F12611/b199b47b/66105
+#EXTINF:-1,US: KIVI-TV
+http://pascaltv.site:8080/F12611/b199b47b/166198
+#EXTINF:-1,US: KJRH TV
+http://pascaltv.site:8080/F12611/b199b47b/166349
+#EXTINF:-1,US: KMGH-TV
+http://pascaltv.site:8080/F12611/b199b47b/166352
+#EXTINF:-1,US: KMTV-TV
+http://pascaltv.site:8080/F12611/b199b47b/166219
+#EXTINF:-1,US: Knoxville NBC WBIR
+http://pascaltv.site:8080/F12611/b199b47b/198283
+#EXTINF:-1,US: KNXV-TV
+http://pascaltv.site:8080/F12611/b199b47b/166362
+#EXTINF:-1,US: KPRC-TV
+http://pascaltv.site:8080/F12611/b199b47b/166212
+#EXTINF:-1,US: KRIS-TV
+http://pascaltv.site:8080/F12611/b199b47b/276041
+#EXTINF:-1,US: KSAT-TV
+http://pascaltv.site:8080/F12611/b199b47b/166204
+#EXTINF:-1,US: KSBY-TV
+http://pascaltv.site:8080/F12611/b199b47b/166206
+#EXTINF:-1,US: KSHB TV
+http://pascaltv.site:8080/F12611/b199b47b/166208
+#EXTINF:-1,US: KSTU-TV
+http://pascaltv.site:8080/F12611/b199b47b/166223
+#EXTINF:-1,US: KTLA
+http://pascaltv.site:8080/F12611/b199b47b/171820
+#EXTINF:-1,US: KXXV-TV
+http://pascaltv.site:8080/F12611/b199b47b/166351
+#EXTINF:-1,US: La Crosse FOX WLAX
+http://pascaltv.site:8080/F12611/b199b47b/198103
+#EXTINF:-1,US: Lafayette NBC KLAF
+http://pascaltv.site:8080/F12611/b199b47b/196194
+#EXTINF:-1,US: LAFF TV FHD
+http://pascaltv.site:8080/F12611/b199b47b/272260
+#EXTINF:-1,US: Lansing FOX WSYM
+http://pascaltv.site:8080/F12611/b199b47b/198157
+#EXTINF:-1,US: LAW & Crime HD
+http://pascaltv.site:8080/F12611/b199b47b/8586
+#EXTINF:-1,US: Law & Crime Network FHD
+http://pascaltv.site:8080/F12611/b199b47b/194203
+#EXTINF:-1,US: Life Time FHD
+http://pascaltv.site:8080/F12611/b199b47b/5521
+#EXTINF:-1,US: Lifetime Movie Network HD
+http://pascaltv.site:8080/F12611/b199b47b/12992
+#EXTINF:-1,US: lifetime Movies FHD
+http://pascaltv.site:8080/F12611/b199b47b/35502
+#EXTINF:-1,US: Lima NBC WLIO
+http://pascaltv.site:8080/F12611/b199b47b/198308
+#EXTINF:-1,US: Little Rock FOX KLRT
+http://pascaltv.site:8080/F12611/b199b47b/198186
+#EXTINF:-1,US: Little Rock NBC KARK
+http://pascaltv.site:8080/F12611/b199b47b/198116
+#EXTINF:-1,US: LMN HD
+http://pascaltv.site:8080/F12611/b199b47b/57014
+#EXTINF:-1,US: LOGO
+http://pascaltv.site:8080/F12611/b199b47b/150607
+#EXTINF:-1,US: LONGHORN NETWORK HD
+http://pascaltv.site:8080/F12611/b199b47b/2340
+#EXTINF:-1,US: Longview FOX KFXK
+http://pascaltv.site:8080/F12611/b199b47b/198091
+#EXTINF:-1,US: Los Angeles NBC KNBC
+http://pascaltv.site:8080/F12611/b199b47b/198124
+#EXTINF:-1,US: Louisville FOX WDRB
+http://pascaltv.site:8080/F12611/b199b47b/198147
+#EXTINF:-1,US: Louisville NBC WAVE
+http://pascaltv.site:8080/F12611/b199b47b/198382
+#EXTINF:-1,US: Love World USA
+http://pascaltv.site:8080/F12611/b199b47b/69309
+#EXTINF:-1,US: Marquee Sports
+http://pascaltv.site:8080/F12611/b199b47b/200837
+#EXTINF:-1,US: Marquette NBC WLUC
+http://pascaltv.site:8080/F12611/b199b47b/192911
+#EXTINF:-1,US: MAV TV
+http://pascaltv.site:8080/F12611/b199b47b/57046
+#EXTINF:-1,US: MBC Gold HD
+http://pascaltv.site:8080/F12611/b199b47b/269131
+#EXTINF:-1,US: ME TV
+http://pascaltv.site:8080/F12611/b199b47b/15450
+#EXTINF:-1,US: Memphis NBC WMC
+http://pascaltv.site:8080/F12611/b199b47b/198284
+#EXTINF:-1,US: Meridian NBC WGBC
+http://pascaltv.site:8080/F12611/b199b47b/192924
+#EXTINF:-1,US: Minot FOX Net
+http://pascaltv.site:8080/F12611/b199b47b/198154
+#EXTINF:-1,US: Miracles of Jesus
+http://pascaltv.site:8080/F12611/b199b47b/166195
+#EXTINF:-1,US: MLB HD
+http://pascaltv.site:8080/F12611/b199b47b/35567
+#EXTINF:-1,US: MLB MLB NETWORK
+http://pascaltv.site:8080/F12611/b199b47b/198179
+#EXTINF:-1,US: MLB Network HD
+http://pascaltv.site:8080/F12611/b199b47b/2342
+#EXTINF:-1,US: Mobile NBC WPMI
+http://pascaltv.site:8080/F12611/b199b47b/198113
+#EXTINF:-1,US: Monroe El Dorado NBC KTVE
+http://pascaltv.site:8080/F12611/b199b47b/198117
+#EXTINF:-1,US: MoreMax FHD
+http://pascaltv.site:8080/F12611/b199b47b/29669
+#EXTINF:-1,US: Motor Trend FHD
+http://pascaltv.site:8080/F12611/b199b47b/272264
+#EXTINF:-1,US: MovieMax FHD
+http://pascaltv.site:8080/F12611/b199b47b/61499
+#EXTINF:-1,US: MoviePlex FHD
+http://pascaltv.site:8080/F12611/b199b47b/75324
+#EXTINF:-1,US: MSG 2 HD
+http://pascaltv.site:8080/F12611/b199b47b/25213
+#EXTINF:-1,US: MSG 2 PLUS HD
+http://pascaltv.site:8080/F12611/b199b47b/150619
+#EXTINF:-1,US: MSG HD
+http://pascaltv.site:8080/F12611/b199b47b/3382
+#EXTINF:-1,US: MSG PLUS HD
+http://pascaltv.site:8080/F12611/b199b47b/25209
+#EXTINF:-1,US: MSNBC HD
+http://pascaltv.site:8080/F12611/b199b47b/406
+#EXTINF:-1,US: MTV 2 HD
+http://pascaltv.site:8080/F12611/b199b47b/15073
+#EXTINF:-1,US: MTV CLASSIC
+http://pascaltv.site:8080/F12611/b199b47b/30906
+#EXTINF:-1,US: MTV EAST
+http://pascaltv.site:8080/F12611/b199b47b/30941
+#EXTINF:-1,US: MTV FHD
+http://pascaltv.site:8080/F12611/b199b47b/2344
+#EXTINF:-1,US: MTV Latino HD
+http://pascaltv.site:8080/F12611/b199b47b/166778
+#EXTINF:-1,US: MTV Live HD
+http://pascaltv.site:8080/F12611/b199b47b/15452
+#EXTINF:-1,US: MTVU HD
+http://pascaltv.site:8080/F12611/b199b47b/57018
+#EXTINF:-1,US: Music Choice - Dance EDM
+http://pascaltv.site:8080/F12611/b199b47b/192207
+#EXTINF:-1,US: Music Choice - Hip-Hop R&B
+http://pascaltv.site:8080/F12611/b199b47b/66075
+#EXTINF:-1,US: Music Choice - HIT LIST
+http://pascaltv.site:8080/F12611/b199b47b/148265
+#EXTINF:-1,US: Music Choice - Indie
+http://pascaltv.site:8080/F12611/b199b47b/165936
+#EXTINF:-1,US: Music Choice - KIDZ BOP
+http://pascaltv.site:8080/F12611/b199b47b/148277
+#EXTINF:-1,US: Music Choice - Kidz Only
+http://pascaltv.site:8080/F12611/b199b47b/148284
+#EXTINF:-1,US: Music Choice - Mexicana
+http://pascaltv.site:8080/F12611/b199b47b/168229
+#EXTINF:-1,US: Music Choice - MUSICA URBANA
+http://pascaltv.site:8080/F12611/b199b47b/66094
+#EXTINF:-1,US: Music Choice - Pop & Country
+http://pascaltv.site:8080/F12611/b199b47b/148260
+#EXTINF:-1,US: Music Choice - Pop Hits
+http://pascaltv.site:8080/F12611/b199b47b/148262
+#EXTINF:-1,US: Music Choice - POP LATINO
+http://pascaltv.site:8080/F12611/b199b47b/148272
+#EXTINF:-1,US: Music Choice - R&B Soul
+http://pascaltv.site:8080/F12611/b199b47b/162670
+#EXTINF:-1,US: Music Choice - Rap
+http://pascaltv.site:8080/F12611/b199b47b/120814
+#EXTINF:-1,US: Music Choice - Rap 2K HD
+http://pascaltv.site:8080/F12611/b199b47b/63184
+#EXTINF:-1,US: Music Choice - TEEN BEATS
+http://pascaltv.site:8080/F12611/b199b47b/148263
+#EXTINF:-1,US: Music Choice - THROWBACK JAMZ
+http://pascaltv.site:8080/F12611/b199b47b/226060
+#EXTINF:-1,US: Music Choice - Todays Country
+http://pascaltv.site:8080/F12611/b199b47b/66076
+#EXTINF:-1,US: Music Choice - TODAYS COUNTRY CMA AWARDS
+http://pascaltv.site:8080/F12611/b199b47b/226013
+#EXTINF:-1,US: Music Choice - Tropicales
+http://pascaltv.site:8080/F12611/b199b47b/148267
+#EXTINF:-1,US: Music Choice - Y2K
+http://pascaltv.site:8080/F12611/b199b47b/148268
+#EXTINF:-1,US: MUSIC Choice 90S
+http://pascaltv.site:8080/F12611/b199b47b/66078
+#EXTINF:-1,US: MUSIC Choice Alternative
+http://pascaltv.site:8080/F12611/b199b47b/66103
+#EXTINF:-1,US: MUSIC CHOICE BRITS & HITS
+http://pascaltv.site:8080/F12611/b199b47b/226012
+#EXTINF:-1,US: Music Choice Country
+http://pascaltv.site:8080/F12611/b199b47b/192806
+#EXTINF:-1,US: Music Choice Rock
+http://pascaltv.site:8080/F12611/b199b47b/148261
+#EXTINF:-1,US: Music Choice Trowback Jamz
+http://pascaltv.site:8080/F12611/b199b47b/148270
+#EXTINF:-1,US: MY9 TV HD
+http://pascaltv.site:8080/F12611/b199b47b/150737
+#EXTINF:-1,US: Myrtle Beach
+http://pascaltv.site:8080/F12611/b199b47b/196188
+#EXTINF:-1,US: Myrtle Beach NBC WMBF
+http://pascaltv.site:8080/F12611/b199b47b/198322
+#EXTINF:-1,US: NASA TV HD
+http://pascaltv.site:8080/F12611/b199b47b/35586
+#EXTINF:-1,US: Nashville NBC WSMV
+http://pascaltv.site:8080/F12611/b199b47b/198319
+#EXTINF:-1,US: NAT GEO EAST
+http://pascaltv.site:8080/F12611/b199b47b/6494
+#EXTINF:-1,US: NAT GEO HD
+http://pascaltv.site:8080/F12611/b199b47b/749
+#EXTINF:-1,US: NAT GEO WILD EAST HD
+http://pascaltv.site:8080/F12611/b199b47b/150733
+#EXTINF:-1,US: NAT GEO Wild HD
+http://pascaltv.site:8080/F12611/b199b47b/6503
+#EXTINF:-1,US: NBA HD
+http://pascaltv.site:8080/F12611/b199b47b/762
+#EXTINF:-1,US: NBA TV LEAGUE
+http://pascaltv.site:8080/F12611/b199b47b/158497
+#EXTINF:-1,US: NBC 4 DC [WRCB]
+http://pascaltv.site:8080/F12611/b199b47b/227086
+#EXTINF:-1,US: NBC 4 New York HD
+http://pascaltv.site:8080/F12611/b199b47b/199315
+#EXTINF:-1,US: NBC 4 News [Washington DC]
+http://pascaltv.site:8080/F12611/b199b47b/227087
+#EXTINF:-1,US: NBC 5
+http://pascaltv.site:8080/F12611/b199b47b/166773
+#EXTINF:-1,US: NBC 5 Chicago
+http://pascaltv.site:8080/F12611/b199b47b/197149
+#EXTINF:-1,US: NBC 7 (BOISE ID)
+http://pascaltv.site:8080/F12611/b199b47b/199354
+#EXTINF:-1,US: NBC 10 Columbia
+http://pascaltv.site:8080/F12611/b199b47b/194173
+#EXTINF:-1,US: NBC 11 News
+http://pascaltv.site:8080/F12611/b199b47b/202029
+#EXTINF:-1,US: NBC 11 News [Bay Area]
+http://pascaltv.site:8080/F12611/b199b47b/227082
+#EXTINF:-1,US: NBC 12 HD
+http://pascaltv.site:8080/F12611/b199b47b/202030
+#EXTINF:-1,US: NBC 15 Madison [WMTV]
+http://pascaltv.site:8080/F12611/b199b47b/227083
+#EXTINF:-1,US: NBC 16 South Bend
+http://pascaltv.site:8080/F12611/b199b47b/194167
+#EXTINF:-1,US: NBC 30 Connecticut [WVIT]
+http://pascaltv.site:8080/F12611/b199b47b/227084
+#EXTINF:-1,US: NBC 38 Columbus [WLTZ]
+http://pascaltv.site:8080/F12611/b199b47b/227085
+#EXTINF:-1,US: NBC [WBIR] HD
+http://pascaltv.site:8080/F12611/b199b47b/227089
+#EXTINF:-1,US: NBC [WBTS]
+http://pascaltv.site:8080/F12611/b199b47b/227090
+#EXTINF:-1,US: NBC [WESH] HD
+http://pascaltv.site:8080/F12611/b199b47b/227091
+#EXTINF:-1,US: NBC [WFLA] HD
+http://pascaltv.site:8080/F12611/b199b47b/227092
+#EXTINF:-1,US: NBC [WNBC]
+http://pascaltv.site:8080/F12611/b199b47b/227093
+#EXTINF:-1,US: NBC [WSMV]
+http://pascaltv.site:8080/F12611/b199b47b/227094
+#EXTINF:-1,US: NBC ATLANTA GA WXIA
+http://pascaltv.site:8080/F12611/b199b47b/41043
+#EXTINF:-1,US: NBC Atlanta HD
+http://pascaltv.site:8080/F12611/b199b47b/8496
+#EXTINF:-1,US: NBC Bluefield
+http://pascaltv.site:8080/F12611/b199b47b/200880
+#EXTINF:-1,US: NBC BOSTON HD
+http://pascaltv.site:8080/F12611/b199b47b/8498
+#EXTINF:-1,US: NBC BOSTON MA WBTS
+http://pascaltv.site:8080/F12611/b199b47b/41045
+#EXTINF:-1,US: NBC BUFFALO NY WGRZ
+http://pascaltv.site:8080/F12611/b199b47b/41050
+#EXTINF:-1,US: NBC Casper
+http://pascaltv.site:8080/F12611/b199b47b/200882
+#EXTINF:-1,US: NBC CHARLOTTE NC WCNC
+http://pascaltv.site:8080/F12611/b199b47b/41047
+#EXTINF:-1,US: NBC Charlotte WCNC
+http://pascaltv.site:8080/F12611/b199b47b/150931
+#EXTINF:-1,US: NBC Charlottesville
+http://pascaltv.site:8080/F12611/b199b47b/200872
+#EXTINF:-1,US: NBC Chicago
+http://pascaltv.site:8080/F12611/b199b47b/8490
+#EXTINF:-1,US: NBC CHICAGO IL WMAQ
+http://pascaltv.site:8080/F12611/b199b47b/41046
+#EXTINF:-1,US: NBC CINCINNATI OH WLWT
+http://pascaltv.site:8080/F12611/b199b47b/41048
+#EXTINF:-1,US: NBC Clarksburg
+http://pascaltv.site:8080/F12611/b199b47b/200881
+#EXTINF:-1,US: NBC DENVER CO KUSA
+http://pascaltv.site:8080/F12611/b199b47b/35073
+#EXTINF:-1,US: NBC E
+http://pascaltv.site:8080/F12611/b199b47b/8570
+#EXTINF:-1,US: NBC FHD
+http://pascaltv.site:8080/F12611/b199b47b/2743
+#EXTINF:-1,US: NBC GOLF HD
+http://pascaltv.site:8080/F12611/b199b47b/6307
+#EXTINF:-1,US: NBC GREEN BAY WI WGBA
+http://pascaltv.site:8080/F12611/b199b47b/41052
+#EXTINF:-1,US: NBC HOUSTON TX KPRC
+http://pascaltv.site:8080/F12611/b199b47b/41067
+#EXTINF:-1,US: NBC JACKSONVILLE FL WTLV
+http://pascaltv.site:8080/F12611/b199b47b/41059
+#EXTINF:-1,US: NBC Jonesboro
+http://pascaltv.site:8080/F12611/b199b47b/200863
+#EXTINF:-1,US: NBC KALB Alexandria
+http://pascaltv.site:8080/F12611/b199b47b/150904
+#EXTINF:-1,US: NBC KAMR Amarillo
+http://pascaltv.site:8080/F12611/b199b47b/150982
+#EXTINF:-1,US: NBC KANSAS CITY MO KSHB
+http://pascaltv.site:8080/F12611/b199b47b/41053
+#EXTINF:-1,US: NBC KARE Minneapolis
+http://pascaltv.site:8080/F12611/b199b47b/150919
+#EXTINF:-1,US: NBC KARK Little Rock
+http://pascaltv.site:8080/F12611/b199b47b/150835
+#EXTINF:-1,US: NBC KATH Juneau douglas
+http://pascaltv.site:8080/F12611/b199b47b/150851
+#EXTINF:-1,US: NBC KBMT Beaumont
+http://pascaltv.site:8080/F12611/b199b47b/150984
+#EXTINF:-1,US: NBC KCRA Sacramento
+http://pascaltv.site:8080/F12611/b199b47b/150853
+#EXTINF:-1,US: NBC KDLT Sioux Falls
+http://pascaltv.site:8080/F12611/b199b47b/150979
+#EXTINF:-1,US: NBC KECI Missoula
+http://pascaltv.site:8080/F12611/b199b47b/150927
+#EXTINF:-1,US: NBC KETK Jacksonville
+http://pascaltv.site:8080/F12611/b199b47b/150990
+#EXTINF:-1,US: NBC KFOR Oklahoma City
+http://pascaltv.site:8080/F12611/b199b47b/150962
+#EXTINF:-1,US: NBC KGET Bakersfield HD
+http://pascaltv.site:8080/F12611/b199b47b/150845
+#EXTINF:-1,US: NBC KGNS Laredo
+http://pascaltv.site:8080/F12611/b199b47b/150999
+#EXTINF:-1,US: NBC KHNL Honolulu
+http://pascaltv.site:8080/F12611/b199b47b/150869
+#EXTINF:-1,US: NBC KHQ Kurtistown
+http://pascaltv.site:8080/F12611/b199b47b/150874
+#EXTINF:-1,US: NBC KIEM Eureka
+http://pascaltv.site:8080/F12611/b199b47b/150846
+#EXTINF:-1,US: NBC KJRH Tulsa
+http://pascaltv.site:8080/F12611/b199b47b/150969
+#EXTINF:-1,US: NBC KLAF Lafayette
+http://pascaltv.site:8080/F12611/b199b47b/150899
+#EXTINF:-1,US: NBC KMIR Palm Springs
+http://pascaltv.site:8080/F12611/b199b47b/150849
+#EXTINF:-1,US: NBC KMTR Eugene
+http://pascaltv.site:8080/F12611/b199b47b/150966
+#EXTINF:-1,US: NBC KNBC Los Angeles
+http://pascaltv.site:8080/F12611/b199b47b/150848
+#EXTINF:-1,US: NBC KNBN Rapid City
+http://pascaltv.site:8080/F12611/b199b47b/150976
+#EXTINF:-1,US: NBC KNOP North Platte
+http://pascaltv.site:8080/F12611/b199b47b/150935
+#EXTINF:-1,US: NBC KNPG St Joseph
+http://pascaltv.site:8080/F12611/b199b47b/150915
+#EXTINF:-1,US: NBC KNSD San Diego
+http://pascaltv.site:8080/F12611/b199b47b/150852
+#EXTINF:-1,US: NBC KNTV San Jose
+http://pascaltv.site:8080/F12611/b199b47b/150854
+#EXTINF:-1,US: NBC KNVN Chico
+http://pascaltv.site:8080/F12611/b199b47b/150844
+#EXTINF:-1,US: NBC KOAA Pueblo
+http://pascaltv.site:8080/F12611/b199b47b/150856
+#EXTINF:-1,US: NBC KOB Alburquerque
+http://pascaltv.site:8080/F12611/b199b47b/150947
+#EXTINF:-1,US: NBC KOBI Medford
+http://pascaltv.site:8080/F12611/b199b47b/150961
+#EXTINF:-1,US: NBC KOMU Columbia
+http://pascaltv.site:8080/F12611/b199b47b/150917
+#EXTINF:-1,US: NBC KPLC Lake Charles
+http://pascaltv.site:8080/F12611/b199b47b/150895
+#EXTINF:-1,US: NBC KPRC Houston
+http://pascaltv.site:8080/F12611/b199b47b/150991
+#EXTINF:-1,US: NBC KPVI Idaho Falls Pocatello
+http://pascaltv.site:8080/F12611/b199b47b/150872
+#EXTINF:-1,US: NBC KRIS Corpus Christi
+http://pascaltv.site:8080/F12611/b199b47b/151005
+#EXTINF:-1,US: NBC KRNV Reno
+http://pascaltv.site:8080/F12611/b199b47b/150946
+#EXTINF:-1,US: NBC KSBW Salinas
+http://pascaltv.site:8080/F12611/b199b47b/150867
+#EXTINF:-1,US: NBC KSBY San Luis Obispo
+http://pascaltv.site:8080/F12611/b199b47b/150870
+#EXTINF:-1,US: NBC KSDK
+http://pascaltv.site:8080/F12611/b199b47b/150913
+#EXTINF:-1,US: NBC KSEE Fresno
+http://pascaltv.site:8080/F12611/b199b47b/150847
+#EXTINF:-1,US: NBC KSL Shreveport
+http://pascaltv.site:8080/F12611/b199b47b/150914
+#EXTINF:-1,US: NBC KSNB Superior
+http://pascaltv.site:8080/F12611/b199b47b/150936
+#EXTINF:-1,US: NBC KSNF Joplin Pittsburg
+http://pascaltv.site:8080/F12611/b199b47b/150968
+#EXTINF:-1,US: NBC KSNT Topeka
+http://pascaltv.site:8080/F12611/b199b47b/150903
+#EXTINF:-1,US: NBC KSNV Las Vegas
+http://pascaltv.site:8080/F12611/b199b47b/150938
+#EXTINF:-1,US: NBC KSNW Wichita
+http://pascaltv.site:8080/F12611/b199b47b/150901
+#EXTINF:-1,US: NBC KTEN Ada
+http://pascaltv.site:8080/F12611/b199b47b/150956
+#EXTINF:-1,US: NBC KTFT Twin Falls
+http://pascaltv.site:8080/F12611/b199b47b/150871
+#EXTINF:-1,US: NBC KTGF Great Falls
+http://pascaltv.site:8080/F12611/b199b47b/150926
+#EXTINF:-1,US: NBC KTIV Sioux City
+http://pascaltv.site:8080/F12611/b199b47b/150881
+#EXTINF:-1,US: NBC KTSM El Paso
+http://pascaltv.site:8080/F12611/b199b47b/150994
+#EXTINF:-1,US: NBC KTUU Anchorage
+http://pascaltv.site:8080/F12611/b199b47b/150840
+#EXTINF:-1,US: NBC KTVB Boise
+http://pascaltv.site:8080/F12611/b199b47b/150877
+#EXTINF:-1,US: NBC KTVE Monroe El Dorado
+http://pascaltv.site:8080/F12611/b199b47b/150839
+#EXTINF:-1,US: NBC KTVF Fairbanks
+http://pascaltv.site:8080/F12611/b199b47b/150838
+#EXTINF:-1,US: NBC KTVH Helena
+http://pascaltv.site:8080/F12611/b199b47b/150925
+#EXTINF:-1,US: NBC KTVM Butte
+http://pascaltv.site:8080/F12611/b199b47b/150922
+#EXTINF:-1,US: NBC KTVZ Bend
+http://pascaltv.site:8080/F12611/b199b47b/150974
+#EXTINF:-1,US: NBC KULR Billings
+http://pascaltv.site:8080/F12611/b199b47b/150929
+#EXTINF:-1,US: NBC KUSA Denver
+http://pascaltv.site:8080/F12611/b199b47b/150855
+#EXTINF:-1,US: NBC KVEO Brownsville
+http://pascaltv.site:8080/F12611/b199b47b/150985
+#EXTINF:-1,US: NBC KVLY Fargo
+http://pascaltv.site:8080/F12611/b199b47b/150944
+#EXTINF:-1,US: NBC KVOA Tucson
+http://pascaltv.site:8080/F12611/b199b47b/150843
+#EXTINF:-1,US: NBC KWQC Davenport
+http://pascaltv.site:8080/F12611/b199b47b/150878
+#EXTINF:-1,US: NBC KWWL Waterloo
+http://pascaltv.site:8080/F12611/b199b47b/150885
+#EXTINF:-1,US: NBC KXAN Austin
+http://pascaltv.site:8080/F12611/b199b47b/150986
+#EXTINF:-1,US: NBC KXAS Fort Worth
+http://pascaltv.site:8080/F12611/b199b47b/150989
+#EXTINF:-1,US: NBC KYMA Yuma
+http://pascaltv.site:8080/F12611/b199b47b/150850
+#EXTINF:-1,US: NBC KYOU Ottumwa
+http://pascaltv.site:8080/F12611/b199b47b/150880
+#EXTINF:-1,US: NBC KYTV Springfield
+http://pascaltv.site:8080/F12611/b199b47b/150924
+#EXTINF:-1,US: NBC La Crosse
+http://pascaltv.site:8080/F12611/b199b47b/200877
+#EXTINF:-1,US: NBC LOS ANGELES CA KNBC
+http://pascaltv.site:8080/F12611/b199b47b/41042
+#EXTINF:-1,US: NBC Lubbock
+http://pascaltv.site:8080/F12611/b199b47b/200865
+#EXTINF:-1,US: NBC Madison
+http://pascaltv.site:8080/F12611/b199b47b/200878
+#EXTINF:-1,US: NBC Maryland Baltimore HD
+http://pascaltv.site:8080/F12611/b199b47b/8497
+#EXTINF:-1,US: NBC Miami
+http://pascaltv.site:8080/F12611/b199b47b/8483
+#EXTINF:-1,US: NBC MIAMI FL WTVJ
+http://pascaltv.site:8080/F12611/b199b47b/41054
+#EXTINF:-1,US: NBC Milwaukee
+http://pascaltv.site:8080/F12611/b199b47b/8475
+#EXTINF:-1,US: NBC MINNEAPOLIS MN KARE
+http://pascaltv.site:8080/F12611/b199b47b/41056
+#EXTINF:-1,US: NBC NASHVILLE TN WSMV
+http://pascaltv.site:8080/F12611/b199b47b/41068
+#EXTINF:-1,US: NBC NEW ORLEANS LA WDSU
+http://pascaltv.site:8080/F12611/b199b47b/41058
+#EXTINF:-1,US: NBC New York
+http://pascaltv.site:8080/F12611/b199b47b/82291
+#EXTINF:-1,US: NBC NEW YORK NY WNBC
+http://pascaltv.site:8080/F12611/b199b47b/30887
+#EXTINF:-1,US: NBC Odessa
+http://pascaltv.site:8080/F12611/b199b47b/200866
+#EXTINF:-1,US: NBC Orlando
+http://pascaltv.site:8080/F12611/b199b47b/35432
+#EXTINF:-1,US: NBC Philadelphia HD
+http://pascaltv.site:8080/F12611/b199b47b/13185
+#EXTINF:-1,US: NBC Portsmouth
+http://pascaltv.site:8080/F12611/b199b47b/200873
+#EXTINF:-1,US: NBC RALEIGH NC WRAL
+http://pascaltv.site:8080/F12611/b199b47b/45574
+#EXTINF:-1,US: NBC Richmond
+http://pascaltv.site:8080/F12611/b199b47b/200874
+#EXTINF:-1,US: NBC Roanoke
+http://pascaltv.site:8080/F12611/b199b47b/200875
+#EXTINF:-1,US: NBC SACRAMENTO CA KCRA
+http://pascaltv.site:8080/F12611/b199b47b/41061
+#EXTINF:-1,US: NBC San Angelo
+http://pascaltv.site:8080/F12611/b199b47b/200867
+#EXTINF:-1,US: NBC San Antonio
+http://pascaltv.site:8080/F12611/b199b47b/200868
+#EXTINF:-1,US: NBC SAN FRANCISCO CA KNTV
+http://pascaltv.site:8080/F12611/b199b47b/45577
+#EXTINF:-1,US: NBC Seattle
+http://pascaltv.site:8080/F12611/b199b47b/8462
+#EXTINF:-1,US: NBC SEATTLE WA KING
+http://pascaltv.site:8080/F12611/b199b47b/41063
+#EXTINF:-1,US: NBC SPORT HD
+http://pascaltv.site:8080/F12611/b199b47b/54425
+#EXTINF:-1,US: NBC Sports (North West) HD
+http://pascaltv.site:8080/F12611/b199b47b/3373
+#EXTINF:-1,US: NBC Sports Bay Area
+http://pascaltv.site:8080/F12611/b199b47b/82284
+#EXTINF:-1,US: NBC Sports Boston
+http://pascaltv.site:8080/F12611/b199b47b/145408
+#EXTINF:-1,US: NBC Sports California
+http://pascaltv.site:8080/F12611/b199b47b/71701
+#EXTINF:-1,US: NBC Sports Chicago
+http://pascaltv.site:8080/F12611/b199b47b/35492
+#EXTINF:-1,US: NBC Sports Network FHD
+http://pascaltv.site:8080/F12611/b199b47b/3370
+#EXTINF:-1,US: NBC Sports Philadelphia
+http://pascaltv.site:8080/F12611/b199b47b/35472
+#EXTINF:-1,US: NBC Sports Washington
+http://pascaltv.site:8080/F12611/b199b47b/82282
+#EXTINF:-1,US: NBC ST LOUIS MO KSDK
+http://pascaltv.site:8080/F12611/b199b47b/41062
+#EXTINF:-1,US: NBC Tallahassee
+http://pascaltv.site:8080/F12611/b199b47b/199701
+#EXTINF:-1,US: NBC Temple
+http://pascaltv.site:8080/F12611/b199b47b/200869
+#EXTINF:-1,US: NBC Terre Haute
+http://pascaltv.site:8080/F12611/b199b47b/200864
+#EXTINF:-1,US: NBC Texarkana
+http://pascaltv.site:8080/F12611/b199b47b/200870
+#EXTINF:-1,US: NBC Victoria
+http://pascaltv.site:8080/F12611/b199b47b/200871
+#EXTINF:-1,US: NBC Virgin Islands
+http://pascaltv.site:8080/F12611/b199b47b/200883
+#EXTINF:-1,US: NBC WAFF Huntsville
+http://pascaltv.site:8080/F12611/b199b47b/150834
+#EXTINF:-1,US: NBC WAGT Augusta
+http://pascaltv.site:8080/F12611/b199b47b/150868
+#EXTINF:-1,US: NBC WALB Albany
+http://pascaltv.site:8080/F12611/b199b47b/150863
+#EXTINF:-1,US: NBC WAND Decatur
+http://pascaltv.site:8080/F12611/b199b47b/150889
+#EXTINF:-1,US: NBC Washington
+http://pascaltv.site:8080/F12611/b199b47b/13183
+#EXTINF:-1,US: NBC WASHINGTON DC WRC
+http://pascaltv.site:8080/F12611/b199b47b/45586
+#EXTINF:-1,US: NBC Wausau
+http://pascaltv.site:8080/F12611/b199b47b/200879
+#EXTINF:-1,US: NBC WAVE Louisville
+http://pascaltv.site:8080/F12611/b199b47b/150896
+#EXTINF:-1,US: NBC WBBH Fort Myers
+http://pascaltv.site:8080/F12611/b199b47b/150873
+#EXTINF:-1,US: NBC WBGH Binghamton
+http://pascaltv.site:8080/F12611/b199b47b/150937
+#EXTINF:-1,US: NBC WBIR Knoxville
+http://pascaltv.site:8080/F12611/b199b47b/150987
+#EXTINF:-1,US: NBC WBRE Wilkes Barre
+http://pascaltv.site:8080/F12611/b199b47b/150988
+#EXTINF:-1,US: NBC WBTS Boston
+http://pascaltv.site:8080/F12611/b199b47b/150897
+#EXTINF:-1,US: NBC WCAU Philadelphia
+http://pascaltv.site:8080/F12611/b199b47b/150965
+#EXTINF:-1,US: NBC WCBD Charleston
+http://pascaltv.site:8080/F12611/b199b47b/150970
+#EXTINF:-1,US: NBC WCMH Columbus
+http://pascaltv.site:8080/F12611/b199b47b/150954
+#EXTINF:-1,US: NBC WCSH Portland
+http://pascaltv.site:8080/F12611/b199b47b/150906
+#EXTINF:-1,US: NBC WCYB Tri Cities
+http://pascaltv.site:8080/F12611/b199b47b/150983
+#EXTINF:-1,US: NBC WDAM Laurel
+http://pascaltv.site:8080/F12611/b199b47b/150920
+#EXTINF:-1,US: NBC WDIV Detroit
+http://pascaltv.site:8080/F12611/b199b47b/150907
+#EXTINF:-1,US: NBC WDTN Dayton
+http://pascaltv.site:8080/F12611/b199b47b/150955
+#EXTINF:-1,US: NBC WECT Wilmington
+http://pascaltv.site:8080/F12611/b199b47b/150934
+#EXTINF:-1,US: NBC WEEK Peoria
+http://pascaltv.site:8080/F12611/b199b47b/150876
+#EXTINF:-1,US: NBC WESH Daytona Beach
+http://pascaltv.site:8080/F12611/b199b47b/150858
+#EXTINF:-1,US: NBC WETM Elmira
+http://pascaltv.site:8080/F12611/b199b47b/150942
+#EXTINF:-1,US: NBC WEYI Saginaw
+http://pascaltv.site:8080/F12611/b199b47b/150923
+#EXTINF:-1,US: NBC WFIE Evansville
+http://pascaltv.site:8080/F12611/b199b47b/150882
+#EXTINF:-1,US: NBC WFMJ Youngstown
+http://pascaltv.site:8080/F12611/b199b47b/150957
+#EXTINF:-1,US: NBC WGAL Lancaster
+http://pascaltv.site:8080/F12611/b199b47b/150971
+#EXTINF:-1,US: NBC WGBC Meridian
+http://pascaltv.site:8080/F12611/b199b47b/150921
+#EXTINF:-1,US: NBC WGEM Quincy
+http://pascaltv.site:8080/F12611/b199b47b/150879
+#EXTINF:-1,US: NBC WGRZ Buffalo
+http://pascaltv.site:8080/F12611/b199b47b/150952
+#EXTINF:-1,US: NBC WHEC Rochester
+http://pascaltv.site:8080/F12611/b199b47b/150951
+#EXTINF:-1,US: NBC WHIZ Zanesville
+http://pascaltv.site:8080/F12611/b199b47b/150960
+#EXTINF:-1,US: NBC WHO Des Moines
+http://pascaltv.site:8080/F12611/b199b47b/150883
+#EXTINF:-1,US: NBC WILX Onondaga
+http://pascaltv.site:8080/F12611/b199b47b/150911
+#EXTINF:-1,US: NBC WIS Columbia
+http://pascaltv.site:8080/F12611/b199b47b/150981
+#EXTINF:-1,US: NBC WITN Washington
+http://pascaltv.site:8080/F12611/b199b47b/150933
+#EXTINF:-1,US: NBC WJAC Johnstown
+http://pascaltv.site:8080/F12611/b199b47b/150964
+#EXTINF:-1,US: NBC WJHG Panama City
+http://pascaltv.site:8080/F12611/b199b47b/150860
+#EXTINF:-1,US: NBC WKTV Utica
+http://pascaltv.site:8080/F12611/b199b47b/150948
+#EXTINF:-1,US: NBC WKYC Cleveland
+http://pascaltv.site:8080/F12611/b199b47b/150953
+#EXTINF:-1,US: NBC WLBT Jackson
+http://pascaltv.site:8080/F12611/b199b47b/150918
+#EXTINF:-1,US: NBC WLBZ Bangor
+http://pascaltv.site:8080/F12611/b199b47b/150912
+#EXTINF:-1,US: NBC WLEX Lexington
+http://pascaltv.site:8080/F12611/b199b47b/150893
+#EXTINF:-1,US: NBC WLIO Lima
+http://pascaltv.site:8080/F12611/b199b47b/150958
+#EXTINF:-1,US: NBC WLTZ Columbus
+http://pascaltv.site:8080/F12611/b199b47b/150865
+#EXTINF:-1,US: NBC WLUC Marquette
+http://pascaltv.site:8080/F12611/b199b47b/150909
+#EXTINF:-1,US: NBC WLWT Cincinnati
+http://pascaltv.site:8080/F12611/b199b47b/150949
+#EXTINF:-1,US: NBC WMAQ Chicago
+http://pascaltv.site:8080/F12611/b199b47b/150875
+#EXTINF:-1,US: NBC WMBF Myrtle Beach
+http://pascaltv.site:8080/F12611/b199b47b/150975
+#EXTINF:-1,US: NBC WMC Memphis
+http://pascaltv.site:8080/F12611/b199b47b/150978
+#EXTINF:-1,US: NBC WMGT Macon
+http://pascaltv.site:8080/F12611/b199b47b/150866
+#EXTINF:-1,US: NBC WNBJ Jackson
+http://pascaltv.site:8080/F12611/b199b47b/150977
+#EXTINF:-1,US: NBC WNBW Gainesville
+http://pascaltv.site:8080/F12611/b199b47b/150859
+#EXTINF:-1,US: NBC WNDU South Bend
+http://pascaltv.site:8080/F12611/b199b47b/150888
+#EXTINF:-1,US: NBC WNKY Bowling Green
+http://pascaltv.site:8080/F12611/b199b47b/150892
+#EXTINF:-1,US: NBC WNWO Toledo
+http://pascaltv.site:8080/F12611/b199b47b/150963
+#EXTINF:-1,US: NBC WNYT Albany
+http://pascaltv.site:8080/F12611/b199b47b/150939
+#EXTINF:-1,US: NBC WOOD Grand Rapids
+http://pascaltv.site:8080/F12611/b199b47b/150916
+#EXTINF:-1,US: NBC WOWT Omaha
+http://pascaltv.site:8080/F12611/b199b47b/150941
+#EXTINF:-1,US: NBC WPBN Traverse City
+http://pascaltv.site:8080/F12611/b199b47b/150910
+#EXTINF:-1,US: NBC WPMI Mobile
+http://pascaltv.site:8080/F12611/b199b47b/150833
+#EXTINF:-1,US: NBC WPSD Paducah
+http://pascaltv.site:8080/F12611/b199b47b/150908
+#EXTINF:-1,US: NBC WPTA Fort Wayne
+http://pascaltv.site:8080/F12611/b199b47b/150884
+#EXTINF:-1,US: NBC WPTV West Palm Beach
+http://pascaltv.site:8080/F12611/b199b47b/150861
+#EXTINF:-1,US: NBC WPTZ Plattsburgh
+http://pascaltv.site:8080/F12611/b199b47b/150943
+#EXTINF:-1,US: NBC WPXI Pittsburgh
+http://pascaltv.site:8080/F12611/b199b47b/150967
+#EXTINF:-1,US: NBC WRAL Raleigh
+http://pascaltv.site:8080/F12611/b199b47b/150928
+#EXTINF:-1,US: NBC WRCB Chattanooga
+http://pascaltv.site:8080/F12611/b199b47b/150997
+#EXTINF:-1,US: NBC WRDE Salisbury
+http://pascaltv.site:8080/F12611/b199b47b/150905
+#EXTINF:-1,US: NBC WREX Rockford
+http://pascaltv.site:8080/F12611/b199b47b/150891
+#EXTINF:-1,US: NBC WRGX Dothan
+http://pascaltv.site:8080/F12611/b199b47b/150841
+#EXTINF:-1,US: NBC WSFA Montgomery
+http://pascaltv.site:8080/F12611/b199b47b/150836
+#EXTINF:-1,US: NBC WSMV Nashville
+http://pascaltv.site:8080/F12611/b199b47b/150980
+#EXTINF:-1,US: NBC WSPB Lafayette
+http://pascaltv.site:8080/F12611/b199b47b/150887
+#EXTINF:-1,US: NBC WSTM Syracuse
+http://pascaltv.site:8080/F12611/b199b47b/150945
+#EXTINF:-1,US: NBC WTHR Indianapolis
+http://pascaltv.site:8080/F12611/b199b47b/150886
+#EXTINF:-1,US: NBC WTOV Steubenville
+http://pascaltv.site:8080/F12611/b199b47b/150959
+#EXTINF:-1,US: NBC WTVA Columbus
+http://pascaltv.site:8080/F12611/b199b47b/150930
+#EXTINF:-1,US: NBC WTWC Tallahassee
+http://pascaltv.site:8080/F12611/b199b47b/150862
+#EXTINF:-1,US: NBC WVIT New Britain
+http://pascaltv.site:8080/F12611/b199b47b/150857
+#EXTINF:-1,US: NBC WVLA Baton Rouge
+http://pascaltv.site:8080/F12611/b199b47b/150894
+#EXTINF:-1,US: NBC WVNC Watertown
+http://pascaltv.site:8080/F12611/b199b47b/150950
+#EXTINF:-1,US: NBC WVTM Birmingham
+http://pascaltv.site:8080/F12611/b199b47b/150832
+#EXTINF:-1,US: NBC WWLP Springfield
+http://pascaltv.site:8080/F12611/b199b47b/150900
+#EXTINF:-1,US: NBC WXIA Atlanta
+http://pascaltv.site:8080/F12611/b199b47b/150864
+#EXTINF:-1,US: NBC WXII Winston
+http://pascaltv.site:8080/F12611/b199b47b/150940
+#EXTINF:-1,US: NBC WXXV Gulfport
+http://pascaltv.site:8080/F12611/b199b47b/150932
+#EXTINF:-1,US: NBC WYCN Providence
+http://pascaltv.site:8080/F12611/b199b47b/150972
+#EXTINF:-1,US: NBC WYFF Greenville
+http://pascaltv.site:8080/F12611/b199b47b/150973
+#EXTINF:-1,US: NBC Yakima
+http://pascaltv.site:8080/F12611/b199b47b/200876
+#EXTINF:-1,US: NBCSN (North West) HD
+http://pascaltv.site:8080/F12611/b199b47b/56981
+#EXTINF:-1,US: NBCSN Bay Area HD
+http://pascaltv.site:8080/F12611/b199b47b/45785
+#EXTINF:-1,US: NBCSN Boston HD
+http://pascaltv.site:8080/F12611/b199b47b/35132
+#EXTINF:-1,US: NBCSN California HD
+http://pascaltv.site:8080/F12611/b199b47b/16116
+#EXTINF:-1,US: NBCSN Chicago HD
+http://pascaltv.site:8080/F12611/b199b47b/35134
+#EXTINF:-1,US: NBCSN CHICAGO PLUS
+http://pascaltv.site:8080/F12611/b199b47b/12986
+#EXTINF:-1,US: NBCSN FHD
+http://pascaltv.site:8080/F12611/b199b47b/6308
+#EXTINF:-1,US: NBCSN Gold HD
+http://pascaltv.site:8080/F12611/b199b47b/35600
+#EXTINF:-1,US: NBCSN PHILADELPHIA HD
+http://pascaltv.site:8080/F12611/b199b47b/32809
+#EXTINF:-1,US: NBCSN WASHINGTON HD
+http://pascaltv.site:8080/F12611/b199b47b/35154
+#EXTINF:-1,US: NESN BOSTON HD
+http://pascaltv.site:8080/F12611/b199b47b/150618
+#EXTINF:-1,US: NESN HD
+http://pascaltv.site:8080/F12611/b199b47b/7786
+#EXTINF:-1,US: NESN Plus
+http://pascaltv.site:8080/F12611/b199b47b/25025
+#EXTINF:-1,US: Network HD
+http://pascaltv.site:8080/F12611/b199b47b/73853
+#EXTINF:-1,US: Newport FOX WXIX
+http://pascaltv.site:8080/F12611/b199b47b/198148
+#EXTINF:-1,US: News & Views
+http://pascaltv.site:8080/F12611/b199b47b/166232
+#EXTINF:-1,US: News 12 Bronx (NYC)
+http://pascaltv.site:8080/F12611/b199b47b/193557
+#EXTINF:-1,US: News 12 Brooklyn (NYC)
+http://pascaltv.site:8080/F12611/b199b47b/267356
+#EXTINF:-1,US: News 12 Hudsson
+http://pascaltv.site:8080/F12611/b199b47b/193558
+#EXTINF:-1,US: News 12 Long Island
+http://pascaltv.site:8080/F12611/b199b47b/163727
+#EXTINF:-1,US: News 12 New Jersey HD
+http://pascaltv.site:8080/F12611/b199b47b/150739
+#EXTINF:-1,US: News 12 The Bronx HD
+http://pascaltv.site:8080/F12611/b199b47b/150741
+#EXTINF:-1,US: News Max HD
+http://pascaltv.site:8080/F12611/b199b47b/197722
+#EXTINF:-1,US: NEWSY
+http://pascaltv.site:8080/F12611/b199b47b/163730
+#EXTINF:-1,US: NFL Network 1
+http://pascaltv.site:8080/F12611/b199b47b/162681
+#EXTINF:-1,US: NFL Network FHD
+http://pascaltv.site:8080/F12611/b199b47b/2367
+#EXTINF:-1,US: NFL NOW HD
+http://pascaltv.site:8080/F12611/b199b47b/2368
+#EXTINF:-1,US: NFL Redzone HD
+http://pascaltv.site:8080/F12611/b199b47b/2369
+#EXTINF:-1,US: NFL SUNDAY TICKET 705
+http://pascaltv.site:8080/F12611/b199b47b/194337
+#EXTINF:-1,US: NFL SUNDAY TICKET 706
+http://pascaltv.site:8080/F12611/b199b47b/194339
+#EXTINF:-1,US: NFL SUNDAY TICKET 707
+http://pascaltv.site:8080/F12611/b199b47b/194340
+#EXTINF:-1,US: NFL SUNDAY TICKET 708
+http://pascaltv.site:8080/F12611/b199b47b/194341
+#EXTINF:-1,US: NFL SUNDAY TICKET 709
+http://pascaltv.site:8080/F12611/b199b47b/194342
+#EXTINF:-1,US: NFL SUNDAY TICKET 710
+http://pascaltv.site:8080/F12611/b199b47b/194343
+#EXTINF:-1,US: NFL SUNDAY TICKET 711
+http://pascaltv.site:8080/F12611/b199b47b/194344
+#EXTINF:-1,US: NFL SUNDAY TICKET 712
+http://pascaltv.site:8080/F12611/b199b47b/194345
+#EXTINF:-1,US: NFL SUNDAY TICKET 713
+http://pascaltv.site:8080/F12611/b199b47b/194346
+#EXTINF:-1,US: NFL SUNDAY TICKET 714
+http://pascaltv.site:8080/F12611/b199b47b/194347
+#EXTINF:-1,US: NFL SUNDAY TICKET 715
+http://pascaltv.site:8080/F12611/b199b47b/194348
+#EXTINF:-1,US: NFL SUNDAY TICKET 716
+http://pascaltv.site:8080/F12611/b199b47b/194349
+#EXTINF:-1,US: NFL SUNDAY TICKET 717
+http://pascaltv.site:8080/F12611/b199b47b/194350
+#EXTINF:-1,US: NHL HD
+http://pascaltv.site:8080/F12611/b199b47b/77196
+#EXTINF:-1,US: NHL NETWORK HD
+http://pascaltv.site:8080/F12611/b199b47b/2348
+#EXTINF:-1,US: nickelodeon EAST
+http://pascaltv.site:8080/F12611/b199b47b/57036
+#EXTINF:-1,US: nickelodeon HD
+http://pascaltv.site:8080/F12611/b199b47b/764
+#EXTINF:-1,US: nickelodeon Junior EAST
+http://pascaltv.site:8080/F12611/b199b47b/57034
+#EXTINF:-1,US: nickelodeon Junior HD
+http://pascaltv.site:8080/F12611/b199b47b/14835
+#EXTINF:-1,US: nickelodeon KIDS
+http://pascaltv.site:8080/F12611/b199b47b/71707
+#EXTINF:-1,US: nickelodeon MUSIC
+http://pascaltv.site:8080/F12611/b199b47b/12982
+#EXTINF:-1,US: nickelodeon TOONS HD
+http://pascaltv.site:8080/F12611/b199b47b/2351
+#EXTINF:-1,US: Old Songs
+http://pascaltv.site:8080/F12611/b199b47b/166244
+#EXTINF:-1,US: Olympic Channel FHD
+http://pascaltv.site:8080/F12611/b199b47b/6479
+#EXTINF:-1,US: Omid Javedan TV
+http://pascaltv.site:8080/F12611/b199b47b/166361
+#EXTINF:-1,US: ONE AMERICA NETWORK
+http://pascaltv.site:8080/F12611/b199b47b/196192
+#EXTINF:-1,US: ONE AMERICA NEWS
+http://pascaltv.site:8080/F12611/b199b47b/30952
+#EXTINF:-1,US: Onondaga NBC WILX
+http://pascaltv.site:8080/F12611/b199b47b/192912
+#EXTINF:-1,US: Oprah Winfrey Network FHD
+http://pascaltv.site:8080/F12611/b199b47b/13219
+#EXTINF:-1,US: Orlando FOX WOFL
+http://pascaltv.site:8080/F12611/b199b47b/198135
+#EXTINF:-1,US: Ottumwa NBC KYOU
+http://pascaltv.site:8080/F12611/b199b47b/198362
+#EXTINF:-1,US: Our TV
+http://pascaltv.site:8080/F12611/b199b47b/166229
+#EXTINF:-1,US: Outdoor Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/15075
+#EXTINF:-1,US: OuterMax FHD
+http://pascaltv.site:8080/F12611/b199b47b/35085
+#EXTINF:-1,US: OUTSIDE HD
+http://pascaltv.site:8080/F12611/b199b47b/6340
+#EXTINF:-1,US: OVATION HD
+http://pascaltv.site:8080/F12611/b199b47b/194336
+#EXTINF:-1,US: OWN (Oprah Winfrey Network)
+http://pascaltv.site:8080/F12611/b199b47b/83198
+#EXTINF:-1,US: OWN FHD
+http://pascaltv.site:8080/F12611/b199b47b/2352
+#EXTINF:-1,US: OWN HD (Oprah Winfrey TV)
+http://pascaltv.site:8080/F12611/b199b47b/197158
+#EXTINF:-1,US: OWN Network FHD
+http://pascaltv.site:8080/F12611/b199b47b/269329
+#EXTINF:-1,US: OXYGEN EAST
+http://pascaltv.site:8080/F12611/b199b47b/6378
+#EXTINF:-1,US: Oxygen HD
+http://pascaltv.site:8080/F12611/b199b47b/14850
+#EXTINF:-1,US: OXYGEN WEST
+http://pascaltv.site:8080/F12611/b199b47b/6388
+#EXTINF:-1,US: PAC 12 Area HD
+http://pascaltv.site:8080/F12611/b199b47b/193560
+#EXTINF:-1,US: PAC 12 LosAngeles
+http://pascaltv.site:8080/F12611/b199b47b/193460
+#EXTINF:-1,US: PAC-12 (Washington)
+http://pascaltv.site:8080/F12611/b199b47b/7792
+#EXTINF:-1,US: PAC-12 Arizona HD
+http://pascaltv.site:8080/F12611/b199b47b/7789
+#EXTINF:-1,US: PAC-12 Bay Area
+http://pascaltv.site:8080/F12611/b199b47b/7796
+#EXTINF:-1,US: PAC-12 Los Angeles FHD
+http://pascaltv.site:8080/F12611/b199b47b/7790
+#EXTINF:-1,US: PAC-12 Mountain FHD
+http://pascaltv.site:8080/F12611/b199b47b/7793
+#EXTINF:-1,US: PAC-12 Networks HD
+http://pascaltv.site:8080/F12611/b199b47b/35140
+#EXTINF:-1,US: PAC-12 Oregon FHD
+http://pascaltv.site:8080/F12611/b199b47b/7791
+#EXTINF:-1,US: PARAMOUNT Channel
+http://pascaltv.site:8080/F12611/b199b47b/17582
+#EXTINF:-1,US: PARAMOUNT NETWORK HD
+http://pascaltv.site:8080/F12611/b199b47b/269372
+#EXTINF:-1,US: Parliament TV
+http://pascaltv.site:8080/F12611/b199b47b/197724
+#EXTINF:-1,US: Pastor Melissa Scott
+http://pascaltv.site:8080/F12611/b199b47b/166246
+#EXTINF:-1,US: Payame Aramesh TV
+http://pascaltv.site:8080/F12611/b199b47b/166230
+#EXTINF:-1,US: PBS America
+http://pascaltv.site:8080/F12611/b199b47b/14959
+#EXTINF:-1,US: PBS HD
+http://pascaltv.site:8080/F12611/b199b47b/2353
+#EXTINF:-1,US: PBS Kids HD
+http://pascaltv.site:8080/F12611/b199b47b/14837
+#EXTINF:-1,US: PEOPLE TV
+http://pascaltv.site:8080/F12611/b199b47b/57035
+#EXTINF:-1,US: Peoria NBC WEEK
+http://pascaltv.site:8080/F12611/b199b47b/198370
+#EXTINF:-1,US: Philadelphia NBC WCAU
+http://pascaltv.site:8080/F12611/b199b47b/198294
+#EXTINF:-1,US: PIXL
+http://pascaltv.site:8080/F12611/b199b47b/147583
+#EXTINF:-1,US: Political Islam English
+http://pascaltv.site:8080/F12611/b199b47b/166238
+#EXTINF:-1,US: POP HD
+http://pascaltv.site:8080/F12611/b199b47b/6360
+#EXTINF:-1,US: POP LATINO
+http://pascaltv.site:8080/F12611/b199b47b/66090
+#EXTINF:-1,US: Portland NBC WCSH
+http://pascaltv.site:8080/F12611/b199b47b/192908
+#EXTINF:-1,US: PPV CINEMA 07 ANT MAN & THE WASP
+http://pascaltv.site:8080/F12611/b199b47b/198262
+#EXTINF:-1,US: PPV CINEMA 09 END GAME
+http://pascaltv.site:8080/F12611/b199b47b/198264
+#EXTINF:-1,US: PPV CINEMA 23 PPV
+http://pascaltv.site:8080/F12611/b199b47b/198271
+#EXTINF:-1,US: PPV CINEMA 40 KLAUS
+http://pascaltv.site:8080/F12611/b199b47b/198272
+#EXTINF:-1,US: PPV CINEMAX ACTIONMAX
+http://pascaltv.site:8080/F12611/b199b47b/198273
+#EXTINF:-1,US: PPV CINEMAX EAST
+http://pascaltv.site:8080/F12611/b199b47b/198274
+#EXTINF:-1,US: Premier Sports 2 HD
+http://pascaltv.site:8080/F12611/b199b47b/56905
+#EXTINF:-1,US: Press TV
+http://pascaltv.site:8080/F12611/b199b47b/277399
+#EXTINF:-1,US: Pueblo NBC KOAA
+http://pascaltv.site:8080/F12611/b199b47b/198346
+#EXTINF:-1,US: Pursuit Channel
+http://pascaltv.site:8080/F12611/b199b47b/15448
+#EXTINF:-1,US: QVC HD
+http://pascaltv.site:8080/F12611/b199b47b/13001
+#EXTINF:-1,US: R&B & SOUL
+http://pascaltv.site:8080/F12611/b199b47b/66079
+#EXTINF:-1,US: Radio U TV
+http://pascaltv.site:8080/F12611/b199b47b/166262
+#EXTINF:-1,US: Raleigh FOX WRAZ
+http://pascaltv.site:8080/F12611/b199b47b/198162
+#EXTINF:-1,US: RAP
+http://pascaltv.site:8080/F12611/b199b47b/66092
+#EXTINF:-1,US: RED BULL TV FHD
+http://pascaltv.site:8080/F12611/b199b47b/10955
+#EXTINF:-1,US: Reelz Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/2354
+#EXTINF:-1,US: REG Rhode Island, Providence FOX 64 (WNAC)
+http://pascaltv.site:8080/F12611/b199b47b/197156
+#EXTINF:-1,US: Reno NBC KRNV
+http://pascaltv.site:8080/F12611/b199b47b/198333
+#EXTINF:-1,US: Resurrection
+http://pascaltv.site:8080/F12611/b199b47b/166278
+#EXTINF:-1,US: Retro Music
+http://pascaltv.site:8080/F12611/b199b47b/163080
+#EXTINF:-1,US: RetroPlex FHD
+http://pascaltv.site:8080/F12611/b199b47b/76356
+#EXTINF:-1,US: REVOLT HD
+http://pascaltv.site:8080/F12611/b199b47b/15445
+#EXTINF:-1,US: RFD TV FHD
+http://pascaltv.site:8080/F12611/b199b47b/150738
+#EXTINF:-1,US: Richmond NBC WWBT
+http://pascaltv.site:8080/F12611/b199b47b/198286
+#EXTINF:-1,US: Roanoke NBC WSLS
+http://pascaltv.site:8080/F12611/b199b47b/198287
+#EXTINF:-1,US: Rochester NBC WHEC
+http://pascaltv.site:8080/F12611/b199b47b/198300
+#EXTINF:-1,US: RT America
+http://pascaltv.site:8080/F12611/b199b47b/162695
+#EXTINF:-1,US: RT DOCUMENTARY
+http://pascaltv.site:8080/F12611/b199b47b/162692
+#EXTINF:-1,US: RT News
+http://pascaltv.site:8080/F12611/b199b47b/58008
+#EXTINF:-1,US: Sacramento FOX KTXL
+http://pascaltv.site:8080/F12611/b199b47b/198176
+#EXTINF:-1,US: Sacramento NBC KCRA
+http://pascaltv.site:8080/F12611/b199b47b/198080
+#EXTINF:-1,US: Salaam TV
+http://pascaltv.site:8080/F12611/b199b47b/166274
+#EXTINF:-1,US: Salinas FOX KCBA
+http://pascaltv.site:8080/F12611/b199b47b/198127
+#EXTINF:-1,US: Salisbury NBC WRDE
+http://pascaltv.site:8080/F12611/b199b47b/192906
+#EXTINF:-1,US: Salt Lake City FOX KSTU
+http://pascaltv.site:8080/F12611/b199b47b/198095
+#EXTINF:-1,US: Salvation Channel
+http://pascaltv.site:8080/F12611/b199b47b/166248
+#EXTINF:-1,US: San Angelo FOX Net
+http://pascaltv.site:8080/F12611/b199b47b/198093
+#EXTINF:-1,US: San Diego FOX KSWB
+http://pascaltv.site:8080/F12611/b199b47b/198128
+#EXTINF:-1,US: San Diego NBC KNSD
+http://pascaltv.site:8080/F12611/b199b47b/198330
+#EXTINF:-1,US: San Jose FOX KICU
+http://pascaltv.site:8080/F12611/b199b47b/198129
+#EXTINF:-1,US: San Jose NBC KNTV
+http://pascaltv.site:8080/F12611/b199b47b/198331
+#EXTINF:-1,US: San Luis Obispo FOX KKFX
+http://pascaltv.site:8080/F12611/b199b47b/198130
+#EXTINF:-1,US: San Luis Obispo NBC KSBY
+http://pascaltv.site:8080/F12611/b199b47b/198345
+#EXTINF:-1,US: Science Channel
+http://pascaltv.site:8080/F12611/b199b47b/6495
+#EXTINF:-1,US: SEC Network HD
+http://pascaltv.site:8080/F12611/b199b47b/6447
+#EXTINF:-1,US: Sherman FOX Net
+http://pascaltv.site:8080/F12611/b199b47b/198094
+#EXTINF:-1,US: ShopHQ
+http://pascaltv.site:8080/F12611/b199b47b/189899
+#EXTINF:-1,US: SHOWTIME (East) HD
+http://pascaltv.site:8080/F12611/b199b47b/16137
+#EXTINF:-1,US: SHOWTIME (West) HD
+http://pascaltv.site:8080/F12611/b199b47b/6380
+#EXTINF:-1,US: SHOWTIME 2 FHD
+http://pascaltv.site:8080/F12611/b199b47b/78161
+#EXTINF:-1,US: SHOWTIME BET HD
+http://pascaltv.site:8080/F12611/b199b47b/6306
+#EXTINF:-1,US: Showtime Beyond HD
+http://pascaltv.site:8080/F12611/b199b47b/12994
+#EXTINF:-1,US: SHOWTIME Case HD
+http://pascaltv.site:8080/F12611/b199b47b/260355
+#EXTINF:-1,US: SHOWTIME Extreme FHD
+http://pascaltv.site:8080/F12611/b199b47b/12036
+#EXTINF:-1,US: SHOWTIME FAMILY ZONE FHD
+http://pascaltv.site:8080/F12611/b199b47b/16139
+#EXTINF:-1,US: SHOWTIME FHD
+http://pascaltv.site:8080/F12611/b199b47b/765
+#EXTINF:-1,US: SHOWTIME Next HD
+http://pascaltv.site:8080/F12611/b199b47b/13008
+#EXTINF:-1,US: ShowTime Pacific HD
+http://pascaltv.site:8080/F12611/b199b47b/270028
+#EXTINF:-1,US: SHOWTIME SHOWCASE FHD
+http://pascaltv.site:8080/F12611/b199b47b/264344
+#EXTINF:-1,US: SHOWTIME Women HD
+http://pascaltv.site:8080/F12611/b199b47b/12995
+#EXTINF:-1,US: Shreveport NBC KSL
+http://pascaltv.site:8080/F12611/b199b47b/192902
+#EXTINF:-1,US: Sioux Falls NBC KDLT
+http://pascaltv.site:8080/F12611/b199b47b/198280
+#EXTINF:-1,US: SKY COMEDY FHD
+http://pascaltv.site:8080/F12611/b199b47b/265852
+#EXTINF:-1,US: SKY PORTS GOLF HD
+http://pascaltv.site:8080/F12611/b199b47b/66401
+#EXTINF:-1,US: Smithsonian Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/8585
+#EXTINF:-1,US: Smithsonian Channel West HD
+http://pascaltv.site:8080/F12611/b199b47b/35093
+#EXTINF:-1,US: SMITHSONIAN EAST FHD
+http://pascaltv.site:8080/F12611/b199b47b/30959
+#EXTINF:-1,US: SNY HD
+http://pascaltv.site:8080/F12611/b199b47b/6436
+#EXTINF:-1,US: Son of God
+http://pascaltv.site:8080/F12611/b199b47b/166221
+#EXTINF:-1,US: Songs of Worship
+http://pascaltv.site:8080/F12611/b199b47b/166252
+#EXTINF:-1,US: Sony Movies HD
+http://pascaltv.site:8080/F12611/b199b47b/5831
+#EXTINF:-1,US: Sony Ten Sport 1
+http://pascaltv.site:8080/F12611/b199b47b/157402
+#EXTINF:-1,US: SPECTRUM SPORTSNET
+http://pascaltv.site:8080/F12611/b199b47b/150611
+#EXTINF:-1,US: SPIKE / PARA HD
+http://pascaltv.site:8080/F12611/b199b47b/192793
+#EXTINF:-1,US: Spike HD
+http://pascaltv.site:8080/F12611/b199b47b/14839
+#EXTINF:-1,US: Spiritual Anointing
+http://pascaltv.site:8080/F12611/b199b47b/166236
+#EXTINF:-1,US: SPORT NBA HD
+http://pascaltv.site:8080/F12611/b199b47b/77672
+#EXTINF:-1,US: Sportsman Channel
+http://pascaltv.site:8080/F12611/b199b47b/71787
+#EXTINF:-1,US: Springfield FOX WGGB
+http://pascaltv.site:8080/F12611/b199b47b/194191
+#EXTINF:-1,US: St. Louis FOX KTVI
+http://pascaltv.site:8080/F12611/b199b47b/198106
+#EXTINF:-1,US: St. NBC KSDK
+http://pascaltv.site:8080/F12611/b199b47b/192919
+#EXTINF:-1,US: STADIUM 1
+http://pascaltv.site:8080/F12611/b199b47b/48138
+#EXTINF:-1,US: STADIUM HD
+http://pascaltv.site:8080/F12611/b199b47b/29657
+#EXTINF:-1,US: START TV
+http://pascaltv.site:8080/F12611/b199b47b/151056
+#EXTINF:-1,US: STARZ (East) HD
+http://pascaltv.site:8080/F12611/b199b47b/6302
+#EXTINF:-1,US: Starz Black FHD
+http://pascaltv.site:8080/F12611/b199b47b/166710
+#EXTINF:-1,US: Starz Cinema East FHD
+http://pascaltv.site:8080/F12611/b199b47b/25811
+#EXTINF:-1,US: Starz Cinema FHD
+http://pascaltv.site:8080/F12611/b199b47b/767
+#EXTINF:-1,US: Starz Cinema West FHD
+http://pascaltv.site:8080/F12611/b199b47b/78160
+#EXTINF:-1,US: Starz Comedy FHD
+http://pascaltv.site:8080/F12611/b199b47b/12040
+#EXTINF:-1,US: Starz Edge FHD
+http://pascaltv.site:8080/F12611/b199b47b/2357
+#EXTINF:-1,US: Starz Edge West FHD
+http://pascaltv.site:8080/F12611/b199b47b/166711
+#EXTINF:-1,US: Starz Encore Action FHD
+http://pascaltv.site:8080/F12611/b199b47b/30773
+#EXTINF:-1,US: Starz Encore Black HD
+http://pascaltv.site:8080/F12611/b199b47b/78155
+#EXTINF:-1,US: Starz Encore Classic FHD
+http://pascaltv.site:8080/F12611/b199b47b/25816
+#EXTINF:-1,US: Starz Encore East FHD
+http://pascaltv.site:8080/F12611/b199b47b/71711
+#EXTINF:-1,US: Starz Encore Family FHD
+http://pascaltv.site:8080/F12611/b199b47b/13013
+#EXTINF:-1,US: Starz Encore FHD
+http://pascaltv.site:8080/F12611/b199b47b/12043
+#EXTINF:-1,US: Starz Encore Suspense FHD
+http://pascaltv.site:8080/F12611/b199b47b/25817
+#EXTINF:-1,US: Starz Encore West FHD
+http://pascaltv.site:8080/F12611/b199b47b/78154
+#EXTINF:-1,US: Starz Encore Western FHD
+http://pascaltv.site:8080/F12611/b199b47b/30778
+#EXTINF:-1,US: Starz Family FHD
+http://pascaltv.site:8080/F12611/b199b47b/76379
+#EXTINF:-1,US: Starz FHD
+http://pascaltv.site:8080/F12611/b199b47b/15066
+#EXTINF:-1,US: STARZ IN BLACK HD
+http://pascaltv.site:8080/F12611/b199b47b/15056
+#EXTINF:-1,US: Starz Kids & Family FHD
+http://pascaltv.site:8080/F12611/b199b47b/15052
+#EXTINF:-1,US: Starz West FHD
+http://pascaltv.site:8080/F12611/b199b47b/12044
+#EXTINF:-1,US: Staz West FHD
+http://pascaltv.site:8080/F12611/b199b47b/173132
+#EXTINF:-1,US: Steubenville NBC WTOV
+http://pascaltv.site:8080/F12611/b199b47b/198309
+#EXTINF:-1,US: Sundance FHD
+http://pascaltv.site:8080/F12611/b199b47b/2358
+#EXTINF:-1,US: Surath 2
+http://pascaltv.site:8080/F12611/b199b47b/166264
+#EXTINF:-1,US: Surath Gospel
+http://pascaltv.site:8080/F12611/b199b47b/166254
+#EXTINF:-1,US: Surath Songs Channel
+http://pascaltv.site:8080/F12611/b199b47b/166256
+#EXTINF:-1,US: SYFY East HD
+http://pascaltv.site:8080/F12611/b199b47b/6374
+#EXTINF:-1,US: SYFY HD
+http://pascaltv.site:8080/F12611/b199b47b/2359
+#EXTINF:-1,US: SYFY WEST
+http://pascaltv.site:8080/F12611/b199b47b/151058
+#EXTINF:-1,US: Syracuse FOX WSYT
+http://pascaltv.site:8080/F12611/b199b47b/198170
+#EXTINF:-1,US: Tacoma FOX KCPQ
+http://pascaltv.site:8080/F12611/b199b47b/198101
+#EXTINF:-1,US: Tallahassee NBC WTWC
+http://pascaltv.site:8080/F12611/b199b47b/198352
+#EXTINF:-1,US: Taste Made HD
+http://pascaltv.site:8080/F12611/b199b47b/147577
+#EXTINF:-1,US: TASTEMADE EAST
+http://pascaltv.site:8080/F12611/b199b47b/30972
+#EXTINF:-1,US: TBD
+http://pascaltv.site:8080/F12611/b199b47b/275978
+#EXTINF:-1,US: TBS EAST
+http://pascaltv.site:8080/F12611/b199b47b/6356
+#EXTINF:-1,US: TBS FHD
+http://pascaltv.site:8080/F12611/b199b47b/768
+#EXTINF:-1,US: TCM HD
+http://pascaltv.site:8080/F12611/b199b47b/6371
+#EXTINF:-1,US: TEEN BEATS
+http://pascaltv.site:8080/F12611/b199b47b/66077
+#EXTINF:-1,US: Teen nickelodeon HD
+http://pascaltv.site:8080/F12611/b199b47b/15058
+#EXTINF:-1,US: TELEMUNDO 47 HD
+http://pascaltv.site:8080/F12611/b199b47b/150742
+#EXTINF:-1,US: Telemundo 51 Miami WSCV
+http://pascaltv.site:8080/F12611/b199b47b/278541
+#EXTINF:-1,US: TELEMUNDO BOSTON HD
+http://pascaltv.site:8080/F12611/b199b47b/3111
+#EXTINF:-1,US: TELEMUNDO CHICAGO HD
+http://pascaltv.site:8080/F12611/b199b47b/3112
+#EXTINF:-1,US: TELEMUNDO DALLAS HD
+http://pascaltv.site:8080/F12611/b199b47b/3113
+#EXTINF:-1,US: Telemundo Denver
+http://pascaltv.site:8080/F12611/b199b47b/3114
+#EXTINF:-1,US: Telemundo Fresno
+http://pascaltv.site:8080/F12611/b199b47b/3115
+#EXTINF:-1,US: Telemundo Harlingen
+http://pascaltv.site:8080/F12611/b199b47b/8537
+#EXTINF:-1,US: TELEMUNDO HOUSTON
+http://pascaltv.site:8080/F12611/b199b47b/3116
+#EXTINF:-1,US: TELEMUNDO LOS ANGELES HD
+http://pascaltv.site:8080/F12611/b199b47b/8538
+#EXTINF:-1,US: TELEMUNDO MIAMI
+http://pascaltv.site:8080/F12611/b199b47b/3117
+#EXTINF:-1,US: Telemundo New York
+http://pascaltv.site:8080/F12611/b199b47b/3118
+#EXTINF:-1,US: Telemundo Phoenix
+http://pascaltv.site:8080/F12611/b199b47b/3123
+#EXTINF:-1,US: Telemundo San Diego
+http://pascaltv.site:8080/F12611/b199b47b/270054
+#EXTINF:-1,US: Telemundo San francisco
+http://pascaltv.site:8080/F12611/b199b47b/82270
+#EXTINF:-1,US: Telemundo Tucson
+http://pascaltv.site:8080/F12611/b199b47b/3122
+#EXTINF:-1,US: Tennis Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/2360
+#EXTINF:-1,US: Thanks Channel
+http://pascaltv.site:8080/F12611/b199b47b/166276
+#EXTINF:-1,US: The Bible
+http://pascaltv.site:8080/F12611/b199b47b/166090
+#EXTINF:-1,US: The Blaze
+http://pascaltv.site:8080/F12611/b199b47b/58029
+#EXTINF:-1,US: The Cowboy Channel
+http://pascaltv.site:8080/F12611/b199b47b/162714
+#EXTINF:-1,US: The Cross
+http://pascaltv.site:8080/F12611/b199b47b/166313
+#EXTINF:-1,US: The CW
+http://pascaltv.site:8080/F12611/b199b47b/83201
+#EXTINF:-1,US: The Golf Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/5845
+#EXTINF:-1,US: The Longhorn Network HD
+http://pascaltv.site:8080/F12611/b199b47b/194129
+#EXTINF:-1,US: The Olympic Channel
+http://pascaltv.site:8080/F12611/b199b47b/83972
+#EXTINF:-1,US: The Prophets of God
+http://pascaltv.site:8080/F12611/b199b47b/166258
+#EXTINF:-1,US: The Way TV
+http://pascaltv.site:8080/F12611/b199b47b/276042
+#EXTINF:-1,US: The Weather Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/2361
+#EXTINF:-1,US: THRILLERMAX
+http://pascaltv.site:8080/F12611/b199b47b/151049
+#EXTINF:-1,US: THROWBACK JAMZ
+http://pascaltv.site:8080/F12611/b199b47b/66100
+#EXTINF:-1,US: TLC Channel
+http://pascaltv.site:8080/F12611/b199b47b/2362
+#EXTINF:-1,US: TLC East HD
+http://pascaltv.site:8080/F12611/b199b47b/6338
+#EXTINF:-1,US: TNT (East) HD
+http://pascaltv.site:8080/F12611/b199b47b/6353
+#EXTINF:-1,US: TNT FHD
+http://pascaltv.site:8080/F12611/b199b47b/769
+#EXTINF:-1,US: TODDLER TUNES
+http://pascaltv.site:8080/F12611/b199b47b/66099
+#EXTINF:-1,US: Toledo FOX WUPW
+http://pascaltv.site:8080/F12611/b199b47b/198172
+#EXTINF:-1,US: Topeka NBC KSNT
+http://pascaltv.site:8080/F12611/b199b47b/198378
+#EXTINF:-1,US: Travel Channel EAST
+http://pascaltv.site:8080/F12611/b199b47b/6500
+#EXTINF:-1,US: Travel Channel FHD
+http://pascaltv.site:8080/F12611/b199b47b/2363
+#EXTINF:-1,US: Travel Channel WEST
+http://pascaltv.site:8080/F12611/b199b47b/6506
+#EXTINF:-1,US: Traverse City NBC WPBN
+http://pascaltv.site:8080/F12611/b199b47b/192914
+#EXTINF:-1,US: Tri Cities NBC WCYB
+http://pascaltv.site:8080/F12611/b199b47b/198320
+#EXTINF:-1,US: TROPICALS
+http://pascaltv.site:8080/F12611/b199b47b/66098
+#EXTINF:-1,US: TRU TV East HD
+http://pascaltv.site:8080/F12611/b199b47b/6376
+#EXTINF:-1,US: Tru TV HD
+http://pascaltv.site:8080/F12611/b199b47b/14843
+#EXTINF:-1,US: TRU TV West HD
+http://pascaltv.site:8080/F12611/b199b47b/6364
+#EXTINF:-1,US: TRUE Movies
+http://pascaltv.site:8080/F12611/b199b47b/35546
+#EXTINF:-1,US: Tucson FOX KMSB
+http://pascaltv.site:8080/F12611/b199b47b/198188
+#EXTINF:-1,US: Tucson NBC KVOA
+http://pascaltv.site:8080/F12611/b199b47b/198118
+#EXTINF:-1,US: Turkish Discipleship
+http://pascaltv.site:8080/F12611/b199b47b/276043
+#EXTINF:-1,US: Turner Classic Movies
+http://pascaltv.site:8080/F12611/b199b47b/193459
+#EXTINF:-1,US: TV LAND EAST
+http://pascaltv.site:8080/F12611/b199b47b/35111
+#EXTINF:-1,US: TV Land HD
+http://pascaltv.site:8080/F12611/b199b47b/2364
+#EXTINF:-1,US: TV Mart?
+http://pascaltv.site:8080/F12611/b199b47b/275979
+#EXTINF:-1,US: TV ONE FHD
+http://pascaltv.site:8080/F12611/b199b47b/13010
+#EXTINF:-1,US: TVG 2
+http://pascaltv.site:8080/F12611/b199b47b/147585
+#EXTINF:-1,US: TVG NETWORK
+http://pascaltv.site:8080/F12611/b199b47b/57055
+#EXTINF:-1,US: TVONE
+http://pascaltv.site:8080/F12611/b199b47b/272296
+#EXTINF:-1,US: UFC FIGHT Pass HD
+http://pascaltv.site:8080/F12611/b199b47b/2374
+#EXTINF:-1,US: UFC HD Fight
+http://pascaltv.site:8080/F12611/b199b47b/263905
+#EXTINF:-1,US: UFC NIGHT PASS
+http://pascaltv.site:8080/F12611/b199b47b/201100
+#EXTINF:-1,US: UFC TV HD
+http://pascaltv.site:8080/F12611/b199b47b/28682
+#EXTINF:-1,US: UNIMAS
+http://pascaltv.site:8080/F12611/b199b47b/193457
+#EXTINF:-1,US: Universal Channel
+http://pascaltv.site:8080/F12611/b199b47b/6291
+#EXTINF:-1,US: UNIVERSAL KIDS EAST
+http://pascaltv.site:8080/F12611/b199b47b/6399
+#EXTINF:-1,US: UNIVERSAL KIDS HD
+http://pascaltv.site:8080/F12611/b199b47b/82276
+#EXTINF:-1,US: Univision Austin
+http://pascaltv.site:8080/F12611/b199b47b/68843
+#EXTINF:-1,US: Univision FHD
+http://pascaltv.site:8080/F12611/b199b47b/3124
+#EXTINF:-1,US: USA Network HD
+http://pascaltv.site:8080/F12611/b199b47b/3390
+#EXTINF:-1,US: USA NETWORK WEST
+http://pascaltv.site:8080/F12611/b199b47b/151062
+#EXTINF:-1,US: Utica NBC WKTV
+http://pascaltv.site:8080/F12611/b199b47b/198302
+#EXTINF:-1,US: Velocity HD
+http://pascaltv.site:8080/F12611/b199b47b/6512
+#EXTINF:-1,US: VH1 (East)
+http://pascaltv.site:8080/F12611/b199b47b/30965
+#EXTINF:-1,US: VH1 Classic FHD
+http://pascaltv.site:8080/F12611/b199b47b/35594
+#EXTINF:-1,US: VH1 HD
+http://pascaltv.site:8080/F12611/b199b47b/2370
+#EXTINF:-1,US: VICELAND HD
+http://pascaltv.site:8080/F12611/b199b47b/35108
+#EXTINF:-1,US: Vietnamese Discipleship
+http://pascaltv.site:8080/F12611/b199b47b/166286
+#EXTINF:-1,US: Virginia Beach FOX WVBT
+http://pascaltv.site:8080/F12611/b199b47b/198099
+#EXTINF:-1,US: VSIN HD
+http://pascaltv.site:8080/F12611/b199b47b/150629
+#EXTINF:-1,US: Wake Up America
+http://pascaltv.site:8080/F12611/b199b47b/166139
+#EXTINF:-1,US: Washington NBC WITN
+http://pascaltv.site:8080/F12611/b199b47b/198342
+#EXTINF:-1,US: Waterloo NBC KWWL
+http://pascaltv.site:8080/F12611/b199b47b/198364
+#EXTINF:-1,US: Watertown NBC WVNC
+http://pascaltv.site:8080/F12611/b199b47b/198303
+#EXTINF:-1,US: WBBH-TV
+http://pascaltv.site:8080/F12611/b199b47b/166272
+#EXTINF:-1,US: WBPI-CD
+http://pascaltv.site:8080/F12611/b199b47b/166292
+#EXTINF:-1,US: WCAV-TV
+http://pascaltv.site:8080/F12611/b199b47b/166277
+#EXTINF:-1,US: WCPO TV
+http://pascaltv.site:8080/F12611/b199b47b/166309
+#EXTINF:-1,US: WDIV-TV
+http://pascaltv.site:8080/F12611/b199b47b/166288
+#EXTINF:-1,US: WE TV HD
+http://pascaltv.site:8080/F12611/b199b47b/6347
+#EXTINF:-1,US: WEATHER Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/29653
+#EXTINF:-1,US: WeatherNation TV
+http://pascaltv.site:8080/F12611/b199b47b/24330
+#EXTINF:-1,US: West USAlm Beach NBC WPTV
+http://pascaltv.site:8080/F12611/b199b47b/198353
+#EXTINF:-1,US: WEWS-TV
+http://pascaltv.site:8080/F12611/b199b47b/166280
+#EXTINF:-1,US: WFTS-TV
+http://pascaltv.site:8080/F12611/b199b47b/166304
+#EXTINF:-1,US: WGBA-TV
+http://pascaltv.site:8080/F12611/b199b47b/166363
+#EXTINF:-1,US: WGN 9 HD
+http://pascaltv.site:8080/F12611/b199b47b/2371
+#EXTINF:-1,US: WGN America HD
+http://pascaltv.site:8080/F12611/b199b47b/6296
+#EXTINF:-1,US: Wichita NBC KSNW
+http://pascaltv.site:8080/F12611/b199b47b/198379
+#EXTINF:-1,US: Willow Cricket HD
+http://pascaltv.site:8080/F12611/b199b47b/2372
+#EXTINF:-1,US: Winston salem NBC WXII
+http://pascaltv.site:8080/F12611/b199b47b/198340
+#EXTINF:-1,US: WKMG-TV
+http://pascaltv.site:8080/F12611/b199b47b/166307
+#EXTINF:-1,US: World FIGHT Channel HD
+http://pascaltv.site:8080/F12611/b199b47b/193559
+#EXTINF:-1,US: WORLD FISHING NETWORK HD
+http://pascaltv.site:8080/F12611/b199b47b/12983
+#EXTINF:-1,US: World Religions
+http://pascaltv.site:8080/F12611/b199b47b/166315
+#EXTINF:-1,US: WPIX 11 NY HD
+http://pascaltv.site:8080/F12611/b199b47b/162747
+#EXTINF:-1,US: WPLG-TV
+http://pascaltv.site:8080/F12611/b199b47b/166290
+#EXTINF:-1,US: WPTV TV
+http://pascaltv.site:8080/F12611/b199b47b/166364
+#EXTINF:-1,US: WRTV-TV
+http://pascaltv.site:8080/F12611/b199b47b/166306
+#EXTINF:-1,US: WTKR-TV
+http://pascaltv.site:8080/F12611/b199b47b/275980
+#EXTINF:-1,US: WTMJ-TV
+http://pascaltv.site:8080/F12611/b199b47b/166300
+#EXTINF:-1,US: WTXL-TV
+http://pascaltv.site:8080/F12611/b199b47b/166298
+#EXTINF:-1,US: WWE 24
+http://pascaltv.site:8080/F12611/b199b47b/58004
+#EXTINF:-1,US: WWE FHD
+http://pascaltv.site:8080/F12611/b199b47b/3385
+#EXTINF:-1,US: WWE Network FHD
+http://pascaltv.site:8080/F12611/b199b47b/2373
+#EXTINF:-1,US: WWE PPV 2020
+http://pascaltv.site:8080/F12611/b199b47b/201101
+#EXTINF:-1,US: Y2K
+http://pascaltv.site:8080/F12611/b199b47b/66088
+#EXTINF:-1,US: Yakima FOX KCYU
+http://pascaltv.site:8080/F12611/b199b47b/198102
+#EXTINF:-1,US: YES HD
+http://pascaltv.site:8080/F12611/b199b47b/35598
+#EXTINF:-1,US: Yes Network HD
+http://pascaltv.site:8080/F12611/b199b47b/5519
+#EXTINF:-1,US: Young Hollywood
+http://pascaltv.site:8080/F12611/b199b47b/277453
+#EXTINF:-1,US: Youngstown NBC WFMJ
+http://pascaltv.site:8080/F12611/b199b47b/198311
+#EXTINF:-1,US: Youth Channel
+http://pascaltv.site:8080/F12611/b199b47b/166180
+#EXTINF:-1,US: Youtoo America
+http://pascaltv.site:8080/F12611/b199b47b/276044
+#EXTINF:-1,US: Yuma NBC KYMA
+http://pascaltv.site:8080/F12611/b199b47b/198119
+#EXTINF:-1,US: Z Classic
+http://pascaltv.site:8080/F12611/b199b47b/33463
+#EXTINF:-1,US: Zanesville NBC WHIZ
+http://pascaltv.site:8080/F12611/b199b47b/198312
+#EXTINF:-1,US: Zona Futbol
+http://pascaltv.site:8080/F12611/b199b47b/150649
+
